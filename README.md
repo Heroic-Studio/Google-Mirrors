@@ -20,7 +20,7 @@ https://g.zmirrordemo.com/
 
 ## 维基百科镜像
 
-https://vip.kuaimen.bid/wiki/
+https://vip.kuaimen.bid/wiki
 
 https://zh.wk.jsproxy.tk/wiki/
 
