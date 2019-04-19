@@ -25,4 +25,4 @@ https://zh.wk.jsproxy.tk/wiki/
 
 ## 通用Web代理
 
-https://orz666.herokuapp.com/
+~~https://orz666.herokuapp.com/~~
