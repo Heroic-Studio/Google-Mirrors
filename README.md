@@ -1,9 +1,9 @@
 ## 谷歌镜像
 
-https://gg.abc110.top/
+https://vip.kuaimen.bid/
 （推荐）
 
-https://vip.kuaimen.bid/
+https://gg.abc110.top/
 （推荐）
 
 https://a.gg456.top/
@@ -19,6 +19,8 @@ https://fanqiang.yanke.info/
 https://g.zmirrordemo.com/
 
 ## 维基百科镜像
+
+https://vip.kuaimen.bid/wiki/
 
 https://zh.wk.jsproxy.tk/wiki/
 
