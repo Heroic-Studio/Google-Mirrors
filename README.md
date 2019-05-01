@@ -12,7 +12,7 @@ https://chartsapi.gdgdocs.org/
 
 https://www.ggjxz.top/
 
-http://google.0xgg.com/（仅支持HTTP）
+http://google.0xgg.com/（不支持HTTPS）
 
 https://fanqiang.yanke.info/
 
