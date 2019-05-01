@@ -1,7 +1,5 @@
 ## 谷歌镜像
 
-Updated 2019.5.2
-
 https://vip.kuaimen.bid/
 （推荐）
 
@@ -31,3 +29,5 @@ https://zh.wk.jsproxy.tk/wiki/
 ## 通用Web代理
 
 https://orz666.herokuapp.com/
+
+Updated 2019.5.2
