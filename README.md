@@ -22,6 +22,8 @@ https://g.zmirrordemo.com/
 
 https://vip.kuaimen.bid/wiki
 
+https://chartsapi.gdgdocs.org/wiki
+
 https://zh.wk.jsproxy.tk/wiki/
 
 ## 通用Web代理
