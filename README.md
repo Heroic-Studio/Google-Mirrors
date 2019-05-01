@@ -3,7 +3,7 @@
 https://vip.kuaimen.bid/
 （推荐）
 
-https://gg.abc110.top/
+~~https://gg.abc110.top/~~（挂了）
 
 https://a.gg456.top/
 
