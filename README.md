@@ -1,5 +1,7 @@
 ## 谷歌镜像
 
+Updated 2019.5.2
+
 https://vip.kuaimen.bid/
 （推荐）
 
