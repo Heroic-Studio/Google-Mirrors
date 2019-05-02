@@ -12,7 +12,8 @@ https://chartsapi.gdgdocs.org/
 
 https://www.ggjxz.top/
 
-http://google.0xgg.com/（不支持HTTPS）
+https://google.0xgg.com/
+（证书已过期）
 
 https://fanqiang.yanke.info/
 
