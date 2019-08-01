@@ -16,11 +16,11 @@ https://g3.luciaz.me/
 答案:心灵之约
 ````````````````````````````````````````````````````
 
-https://g.zmirrordemo.com/
-
 https://g.louqunhua.top/
 
 http://206.189.135.241
+
+https://g.zmirrordemo.com/
 
 https://so.xilesou.287865.com
 
@@ -51,3 +51,7 @@ https://www.wikizero.com/zh/
 http://wikipedia.moesalih.com/
 
 Updated 2019.8.1
+
+镜像站封锁严重，存活不易，请珍惜。
+
+如有失效或镜像站推荐，请留言或发送邮件到sjy2019@outlook.com，我会及时更新。
