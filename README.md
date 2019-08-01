@@ -67,5 +67,5 @@ Updated 2019.8.1
 
 
   [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
-  [2]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/alipay.jpg
-  [3]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/wechat.png
+  [2]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/alipay_185x288.jpg
+  [3]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/wechat_210x288.png
