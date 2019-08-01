@@ -59,7 +59,7 @@ Updated 2019.8.1
 如有失效或镜像站推荐，请[留言][1]或发送邮件到sjy2019@outlook.com，我会及时更新。
 
 ## 捐助
-![alipay][2]
+![alipay](https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/alipay.jpg){:height="100" width="100"}
 
 
 
@@ -67,4 +67,3 @@ Updated 2019.8.1
 
 
   [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
-  [2]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/alipay.jpg
