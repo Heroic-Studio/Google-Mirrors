@@ -50,7 +50,7 @@ https://www.wikizero.com/zh/
 
 http://wikipedia.moesalih.com/
 
-Updated 2019.8.1
+2019.8.1更新
 
 ## 注：
 
