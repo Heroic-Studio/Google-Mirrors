@@ -18,6 +18,8 @@ https://g3.luciaz.me/
 
 https://google98.azurewebsites.net/
 
+https://g.zmirrordemo.com/
+
 http://206.189.135.241
 
 https://so.xilesou.287865.com
@@ -38,5 +40,14 @@ https://g3.luciaz.me/extdomains/scholar.google.com/
 
 https://g.zmirrordemo.com/wiki
 
+https://w.upupming.site/wiki/
+
+https://wikipedia.sogou.se/wiki/
+
+https://zh.wikis.website/
+
+https://www.wikizero.com/zh/
+
+http://wikipedia.moesalih.com/
 
 Updated 2019.8.1
