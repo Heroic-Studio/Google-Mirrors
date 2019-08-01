@@ -1,40 +1,36 @@
-## 谷歌镜像
+# 网站镜像大全
 
-~~https://vip.kuaimen.bid/~~
-（推荐）
+## 谷歌搜索
 
-~~https://gg.abc110.top/~~
+https://g3.luciaz.me/
+（由于网站要求，需验证）（推荐）
+`
+[For 逛内网论坛的小伙伴们]
+请问浙江大学内网最大的论坛中, 每天发帖量最大的版块是哪个?
+(全称, 四个汉字)
+`
+答案；心灵之约
 
-https://a.gg456.top/
-
-https://google.upupming.site
+https://google98.azurewebsites.net/
 
 http://206.189.135.241
 
-http://diogenic-minuses.000webhostapp.com
-
 https://so.xilesou.287865.com
 
-~~https://chartsapi.gdgdocs.org/~~
+## 谷歌学术
 
-~~https://www.ggjxz.top/~~
+https://zz.glgoo.top/scholar
 
-~~https://google.0xgg.com/~~
+https://scholar.123admin.com/
 
-~~https://fanqiang.yanke.info/~~
+https://b.glgoo.top/scholar/
 
-~~https://g.zmirrordemo.com/~~
+https://xs.zb-welding.com/scholar/
 
-## 维基百科镜像
+https://g3.luciaz.me/extdomains/scholar.google.com/
 
-~~https://vip.kuaimen.bid/wiki~~
+## 维基百科
 
 https://g.zmirrordemo.com/wiki
 
-https://zh.wk.jsproxy.tk/wiki/
-
-## 通用Web代理
-
-~~https://orz666.herokuapp.com/~~
-
-Updated 2019.6.30
+Updated 2019.8.1
