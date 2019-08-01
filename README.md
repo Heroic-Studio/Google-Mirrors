@@ -52,6 +52,19 @@ http://wikipedia.moesalih.com/
 
 Updated 2019.8.1
 
+## 注：
+
 镜像站封锁严重，存活不易，请珍惜。
 
-如有失效或镜像站推荐，请留言或发送邮件到sjy2019@outlook.com，我会及时更新。
+如有失效或镜像站推荐，请[留言][1]或发送邮件到sjy2019@outlook.com，我会及时更新。
+
+## 捐助
+![alipay][2]
+
+
+
+
+
+
+  [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
+  [2]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/alipay.jpg
