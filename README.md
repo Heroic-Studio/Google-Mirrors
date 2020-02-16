@@ -18,17 +18,19 @@ https://g3.luciaz.me/
 
 https://g.louqunhua.top/
 
-http://206.189.135.241
+~~http://206.189.135.241~~
 
-https://g.zmirrordemo.com/
+~~https://g.zmirrordemo.com/~~
 
-https://so.xilesou.287865.com
+~~https://so.xilesou.287865.com~~
+
+http://tony.9shi.cf/
 
 ## 谷歌学术
 
 https://zz.glgoo.top/scholar
 
-https://scholar.123admin.com/
+~~https://scholar.123admin.com/~~
 
 https://b.glgoo.top/scholar/
 
@@ -38,19 +40,25 @@ https://g3.luciaz.me/extdomains/scholar.google.com/
 
 ## 维基百科
 
-https://g.zmirrordemo.com/wiki
+~~https://g.zmirrordemo.com/wiki~~
 
 https://w.upupming.site/wiki/
 
-https://wikipedia.sogou.se/wiki/
+~~https://wikipedia.sogou.se/wiki/~~
 
-https://zh.wikis.website/
+~~https://zh.wikis.website/~~
 
-https://www.wikizero.com/zh/
+~~https://www.wikizero.com/zh/~·
 
-http://wikipedia.moesalih.com/
+~~http://wikipedia.moesalih.com/~~
 
-2019.8.1更新
+https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+
+## Github
+
+http://github-mirror.bugkiller.org/
+
+2020.1.16更新
 
 ## 注意
 
