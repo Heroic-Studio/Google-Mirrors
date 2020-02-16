@@ -48,7 +48,7 @@ https://w.upupming.site/wiki/
 
 ~~https://zh.wikis.website/~~
 
-~~https://www.wikizero.com/zh/~·
+~~https://www.wikizero.com/zh/~~
 
 ~~http://wikipedia.moesalih.com/~~
 
