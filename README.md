@@ -70,9 +70,12 @@ http://github-mirror.bugkiller.org/
 
 # 机场推荐
 
-超廉价优质V2ray机场——OVO机场 
-0.1元/年付 
-点击进入官网→https://v2.qovoq.ml 
+超廉价优质V2ray机场——OVO机场
+
+0.1元/年付
+
+点击进入官网→https://v2.qovoq.ml
+
 
 2020.2.25更新
 
