@@ -79,7 +79,7 @@ http://github-mirror.bugkiller.org/
 点击进入官网→https://v2.qovoq.ml
 
 
-2020.2.25更新
+2020.3更新
 
 ## 注意
 
