@@ -72,7 +72,9 @@ http://github-mirror.bugkiller.org/
 
 超廉价优质V2ray机场——OVO机场
 
-0.1元/年付
+300G流量
+
+1元/月付
 
 点击进入官网→https://v2.qovoq.ml
 
