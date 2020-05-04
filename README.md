@@ -6,7 +6,9 @@
 
 2.新增Web代理
 
-3.新增Telegram MTProto代理地址
+3.新增科学上网软件
+
+4.新增Telegram MTProto代理地址
 
 # 网站镜像
 
@@ -61,6 +63,12 @@ https://library.ac.cn/ （需验证是否来自该校）
 ## Web代理
 
 https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
+
+## 科学上网
+
+老王VPN
+
+http://jcijeytbdks.club:5050/WangVPN_55.apk
 
 ## Telegram 代理
 
