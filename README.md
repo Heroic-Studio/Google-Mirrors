@@ -1,20 +1,21 @@
-# 网站镜像&机场推荐
+# 网站镜像 
 
-**目录**
-[网站镜像](https://github.com/hmsjy2017/Google-Mirrors#%E7%BD%91%E7%AB%99%E9%95%9C%E5%83%8F)
-[谷歌搜索](https://github.com/hmsjy2017/Google-Mirrors#%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2) 
-[谷歌学术](https://github.com/hmsjy2017/Google-Mirrors#%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF)
-[维基百科](https://github.com/hmsjy2017/Google-Mirrors#%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91) 
-[Github](https://github.com/hmsjy2017/Google-Mirrors#github)
-[机场推荐](https://github.com/hmsjy2017/Google-Mirrors#%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90)
+2020五月更新：
+1.移除失效镜像站网址，增加最新可用网址
+2.新增Web代理
+3.新增Telegram MTProto代理地址
 
 # 网站镜像
 
 ## 谷歌搜索
 
-https://g3.luciaz.me/
+https://chacha.design/（推荐）
 
-（由于网站要求，需验证）（推荐）
+https://gug1.icu/（推荐）
+
+https://g3.luciaz.me/（推荐）
+
+（由于网站要求，需验证）
 
 ```````````````````````````````````````````````````
 [For 逛内网论坛的小伙伴们]
@@ -26,60 +27,94 @@ https://g3.luciaz.me/
 答案:心灵之约
 ````````````````````````````````````````````````````
 
-https://g.louqunhua.top/
+https://seeres.com/（非原版）
 
-~~http://206.189.135.241~~
-
-~~https://g.zmirrordemo.com/~~
-
-~~https://so.xilesou.287865.com~~
-
-http://tony.9shi.cf/
+https://www.dogedoge.com/ （非原版）
 
 ## 谷歌学术
 
-https://zz.glgoo.top/scholar
-
-~~https://scholar.123admin.com/~~
-
-https://b.glgoo.top/scholar/
-
-https://xs.zb-welding.com/scholar/
-
 https://g3.luciaz.me/extdomains/scholar.google.com/
+
+https://en.yaodeyo.com:92/
+
+https://sci-hub.org.cn/
 
 ## 维基百科
 
-~~https://g.zmirrordemo.com/wiki~~
-
-https://w.upupming.site/wiki/
-
-~~https://wikipedia.sogou.se/wiki/~~
-
-~~https://zh.wikis.website/~~
-
-~~https://www.wikizero.com/zh/~~
-
-~~http://wikipedia.moesalih.com/~~
-
 https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
-## Github
+https://fanqiang.yanke.info/scholar
 
-http://github-mirror.bugkiller.org/
+http://www.bosimedia.com/wiki/
+
+https://www.wanweibaike.com/（部分内容进行改编以符合中国大陆政策）
+
+https://en.wanweibaike.com/（英文）
+
+## 大学提供的镜像站服务
+
+https://library.ac.cn/（需验证是否来自该校）
+
+## Web代理
+
+https://vu.qnid.cc/（有可能会引起不适的广告，介意者勿使用）
+
+## Telegram 代理
+
+不会设置的自行百度
+
+https://t.me/proxy?server=52.187.150.47&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=168.62.170.218&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=137.116.133.19&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=52.187.106.35&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=13.76.98.116&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=52.187.26.152&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=13.67.106.116&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=tgp001.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=tgp002.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=tgp003.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=tgp103.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=tgp004.123742.xyz&port=19730&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=tgp104.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=tgp105.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=209.97.173.181&port=443&secret=7gMB4us23XLND1XmKwzLr1xpdHVuZXMuYXBwbGUuY29t
+
+https://t.me/proxy?server=45.248.69.124&port=9999&secret=7k8CLwphHiKbRKLNX6BuFuZzMy5hbWF6b25hd3MuY29t
+
+https://t.me/proxy?server=13.76.91.142&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=13.76.44.90&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=207.46.236.149&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=52.187.71.237&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=ny.raistlin.ml&port=990&secret=7rX4o1vutAYfazXwFWUTJC1ueS5yYWlzdGxpbi5tbA
 
 # 机场推荐
 
-超廉价优质V2ray机场——OVO机场
+V2ray机场——OVO机场
 
 300G流量
 
-1元/月付
+～1元/月付～ 已涨价
 
 点击进入官网→https://v2.qovoq.ml
 
-
-2020.3更新
 
 ## 注意
 
