@@ -12,11 +12,11 @@
 
 ## 谷歌搜索
 
-https://chacha.design/（推荐）
+https://chacha.design/ （推荐）
 
-https://gug1.icu/（推荐）
+https://gug1.icu/ （推荐）
 
-https://g3.luciaz.me/（推荐）
+https://g3.luciaz.me/ （推荐）
 
 （由于网站要求，需验证）
 
@@ -30,7 +30,7 @@ https://g3.luciaz.me/（推荐）
 答案:心灵之约
 ````````````````````````````````````````````````````
 
-https://seeres.com/（非原版）
+https://seeres.com/ （非原版）
 
 https://www.dogedoge.com/ （非原版）
 
@@ -50,17 +50,17 @@ https://fanqiang.yanke.info/scholar
 
 http://www.bosimedia.com/wiki/
 
-https://www.wanweibaike.com/（部分内容进行改编以符合中国大陆政策）
+https://www.wanweibaike.com/ （部分内容进行改编以符合中国大陆政策）
 
-https://en.wanweibaike.com/（英文）
+https://en.wanweibaike.com/ （英文）
 
 ## 大学提供的镜像站服务
 
-https://library.ac.cn/（需验证是否来自该校）
+https://library.ac.cn/ （需验证是否来自该校）
 
 ## Web代理
 
-https://vu.qnid.cc/（有可能会引起不适的广告，介意者勿使用）
+https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
 
 ## Telegram 代理
 
