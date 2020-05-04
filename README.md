@@ -72,6 +72,12 @@ https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
 
 http://jcijeytbdks.club:5050/WangVPN_55.apk
 
+## V2Ray订阅地址（不保证可用）
+
+https://ishare1024.netlify.com/
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
+
 ## Telegram 代理
 
 不会设置的自行百度
