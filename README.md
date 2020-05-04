@@ -72,6 +72,10 @@ https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
 
 http://jcijeytbdks.club:5050/WangVPN_55.apk
 
+VPN Gate
+
+https://lanzous.com/ic88zmf
+
 ## V2Ray订阅地址（不保证可用）
 
 https://ishare1024.netlify.com/
