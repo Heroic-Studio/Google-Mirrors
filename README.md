@@ -78,6 +78,10 @@ VPN Gate
 
 https://lanzous.com/ic88zmf
 
+Shadowrocket
+
+https://iamsjy.lanzous.com/iaa2vdg
+
 ## V2Ray订阅地址（不保证可用）
 
 https://ishare1024.netlify.com/
