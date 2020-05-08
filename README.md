@@ -92,6 +92,10 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
 
 不会设置的自行百度
 
+https://t.me/proxy?server=23.98.64.197&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
+
+https://t.me/proxy?server=139.180.206.140&port=443&secret=7hydkqMKchSuEtfgr0TbG3FpdHVuZXMuYXBwbGUuY29t
+
 https://t.me/proxy?server=52.187.150.47&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
 
 https://t.me/proxy?server=168.62.170.218&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
@@ -125,10 +129,6 @@ https://t.me/proxy?server=209.97.173.181&port=443&secret=7gMB4us23XLND1XmKwzLr1x
 https://t.me/proxy?server=45.248.69.124&port=9999&secret=7k8CLwphHiKbRKLNX6BuFuZzMy5hbWF6b25hd3MuY29t
 
 https://t.me/proxy?server=13.76.91.142&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=13.76.44.90&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=207.46.236.149&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
 
 https://t.me/proxy?server=52.187.71.237&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
 
