@@ -18,6 +18,8 @@ https://chacha.design/ （推荐）
 
 https://gug1.icu/ （推荐）
 
+https://gogoo.ml/ （推荐）
+
 https://g3.luciaz.me/ （推荐）
 
 （由于网站要求，需验证）
