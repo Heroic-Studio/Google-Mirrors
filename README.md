@@ -14,13 +14,25 @@
 
 ## 谷歌搜索
 
-https://chacha.design/ （推荐）
+https://2.52qu.xyz/
 
-https://gug1.icu/ （推荐）
+https://chacha.design/
 
-https://gogoo.ml/ （推荐）
+https://gug1.icu/
 
-https://g3.luciaz.me/ （推荐）
+https://gogoo.ml/
+
+https://g.wangcb.com/
+
+https://sou.wvw.win/
+
+https://google.heng07.com/
+
+https://search.sxisa.com/
+
+http://g.dosnav.com/
+
+https://g3.luciaz.me/
 
 （由于网站要求，需验证）
 
@@ -47,6 +59,8 @@ https://en.yaodeyo.com:92/
 https://sci-hub.org.cn/
 
 ## 维基百科
+
+https://zh.m.wiki.52qu.xyz/zh-cn/Wikipedia:首页
 
 https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
