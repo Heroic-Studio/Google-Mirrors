@@ -26,6 +26,8 @@ https://g.wangcb.com/
 
 https://sou.wvw.win/
 
+https://go.weihanli.xyz/
+
 https://google.heng07.com/
 
 https://search.sxisa.com/
