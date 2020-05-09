@@ -36,20 +36,10 @@ https://search.sxisa.com/
 
 http://g.dosnav.com/
 
-https://jpso.azurewebsites.net/
-
 https://g3.luciaz.me/
 
-（由于网站要求，需验证）
-
 ```````````````````````````````````````````````````
-[For 逛内网论坛的小伙伴们]
-
-请问浙江大学内网最大的论坛中, 每天发帖量最大的版块是哪个?
-
-(全称, 四个汉字)
-
-答案:心灵之约
+其中一个问发帖量最大的版块，答案为：心灵之约
 ````````````````````````````````````````````````````
 
 https://seeres.com/ （非原版）
@@ -83,6 +73,10 @@ http://www.bosimedia.com/wiki/
 https://www.wanweibaike.com/ （部分内容进行改编以符合中国大陆政策）
 
 https://en.wanweibaike.com/ （英文）
+
+## GitHub
+
+https://github.com.cnpmjs.org/
 
 ## 大学提供的镜像站服务
 
