@@ -58,6 +58,8 @@ https://en.yaodeyo.com:92/
 
 https://xueshu.soogle.top/
 
+https://scholar.niostack.com/
+
 https://sci-hub.org.cn/
 
 ## 维基百科
