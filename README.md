@@ -1,4 +1,6 @@
-# 镜像站&免费科学
+# 你用得上的镜像网站
+
+还有免费科学上网工具
 
 2020五月更新：
 
@@ -34,6 +36,8 @@ https://search.sxisa.com/
 
 http://g.dosnav.com/
 
+https://jpso.azurewebsites.net/
+
 https://g3.luciaz.me/
 
 （由于网站要求，需验证）
@@ -52,11 +56,17 @@ https://seeres.com/ （非原版）
 
 https://www.dogedoge.com/ （非原版）
 
+https://goobe.io/ （非原版）
+
+https://suche.dasnetzundich.de/ （非原版）
+
 ## 谷歌学术
 
 https://g3.luciaz.me/extdomains/scholar.google.com/
 
 https://en.yaodeyo.com:92/
+
+https://xueshu.soogle.top/
 
 https://sci-hub.org.cn/
 
