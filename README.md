@@ -2,6 +2,9 @@
 
 还有免费科学上网工具
 
+*⚠️仅供学习交流使用*
+
+
 2020五月更新：
 
 1.移除失效镜像站网址，增加最新可用网址
@@ -17,8 +20,6 @@
 ## 谷歌搜索
 
 https://2.52qu.xyz/
-
-https://chacha.design/
 
 https://gug1.icu/
 
@@ -111,6 +112,8 @@ https://iamsjy.lanzous.com/iaa2vdg
 https://ishare1024.netlify.com/
 
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
+
+https://jiang.netlify.com/?adoncn.com
 
 ## Telegram 代理
 
