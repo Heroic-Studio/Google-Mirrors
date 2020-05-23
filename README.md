@@ -187,5 +187,5 @@ V2ray机场——OVO机场
 
 
   [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
-  [2]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/alipay_185x288.jpg
-  [3]: https://raw.githubusercontent.com/hmsjy2017/Google-Mirrors/master/wechat_210x288.png
+  [2]: https://cdn.jsdelivr.net/gh/hmsjy2017/Google-Mirrors@master/alipay_185x288.jpg
+  [3]: https://cdn.jsdelivr.net/gh/hmsjy2017/Google-Mirrors@master/wechat_210x288.png
