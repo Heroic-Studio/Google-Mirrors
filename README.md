@@ -5,6 +5,7 @@
 *⚠️仅供学习交流使用*
 
 **OVO-专业V2ray 千兆高速机场 多香港节点 看8K无压力
+
 注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
 2020五月更新：
 
