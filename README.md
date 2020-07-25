@@ -90,8 +90,6 @@ https://library.ac.cn/ （需验证是否来自该校）
 
 ## Web代理
 
-https://zxfqhub.com/ （推荐）
-
 https://all.mk-proxy.tk/
 
 https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
