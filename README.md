@@ -82,7 +82,11 @@ https://en.wanweibaike.com/ （英文）
 
 ## GitHub
 
-https://github.com.cnpmjs.org/
+https://hub.fastgit.org/（支持 git ）
+
+https://github.com.cnpmjs.org/（支持 git ）
+
+https://github.wuyanzheshui.workers.dev/
 
 ## 大学提供的镜像站服务
 
