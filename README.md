@@ -40,13 +40,7 @@ https://g3.luciaz.me/
 其中一个问发帖量最大的版块，答案为：心灵之约
 ````````````````````````````````````````````````````
 
-https://seeres.com/ （非原版）
-
 https://www.dogedoge.com/ （非原版）
-
-https://goobe.io/ （非原版）
-
-https://suche.dasnetzundich.de/ （非原版）
 
 ## 谷歌学术
 
