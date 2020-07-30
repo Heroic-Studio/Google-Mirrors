@@ -22,6 +22,8 @@
 
 https://g20.i-research.edu.eu.org/
 
+https://all.mk-proxy.tk/-----https://www.google.com/
+
 https://www.5414.cf/-----https://www.google.com/
 
 https://google.202014.xyz/webhp?hl=zh-CN
