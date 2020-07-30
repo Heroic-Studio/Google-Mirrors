@@ -118,49 +118,9 @@ https://jiang.netlify.com/?adoncn.com
 
 ## Telegram 代理
 
-不会设置的自行百度
+可用脚本自行搭建：
 
-https://t.me/proxy?server=23.98.64.197&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=139.180.206.140&port=443&secret=7hydkqMKchSuEtfgr0TbG3FpdHVuZXMuYXBwbGUuY29t
-
-https://t.me/proxy?server=52.187.150.47&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=168.62.170.218&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=137.116.133.19&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=52.187.106.35&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=13.76.98.116&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=52.187.26.152&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=13.67.106.116&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=tgp001.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=tgp002.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=tgp003.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=tgp103.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=tgp004.123742.xyz&port=19730&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=tgp104.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=tgp105.123742.xyz&port=1973&secret=7gAAAABUZVISqhIiEgAAAAF3d3cuY2xvdWRmbGFyZS5jb20
-
-https://t.me/proxy?server=209.97.173.181&port=443&secret=7gMB4us23XLND1XmKwzLr1xpdHVuZXMuYXBwbGUuY29t
-
-https://t.me/proxy?server=45.248.69.124&port=9999&secret=7k8CLwphHiKbRKLNX6BuFuZzMy5hbWF6b25hd3MuY29t
-
-https://t.me/proxy?server=13.76.91.142&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=52.187.71.237&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAF3d3cuYmluZy5jb20
-
-https://t.me/proxy?server=ny.raistlin.ml&port=990&secret=7rX4o1vutAYfazXwFWUTJC1ueS5yYWlzdGxpbi5tbA
+https://github.com/shellhub/shellhub/blob/master/proxy/mt_proxy.sh
 
 # 机场推荐
 
