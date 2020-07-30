@@ -22,6 +22,8 @@
 
 https://g20.i-research.edu.eu.org/
 
+https://www.5414.cf/-----https://www.google.com/
+
 https://google.202014.xyz/webhp?hl=zh-CN
 
 https://gug1.icu/
@@ -87,6 +89,10 @@ https://i-research.edu.eu.org/
 https://library.ac.cn/ （需验证是否来自该校）
 
 ## Web代理
+
+https://zxfqhub.com/
+
+https://www.5414.cf/
 
 https://all.mk-proxy.tk/
 
