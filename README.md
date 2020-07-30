@@ -10,15 +10,11 @@
 
 **注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
 
-2020五月更新：
+2020年7月30日更新：
 
-1.移除失效镜像站网址，增加最新可用网址
+1. 移除失效镜像站网址，增加最新可用网址
 
-2.新增Web代理
-
-3.新增科学上网软件
-
-4.新增Telegram MTProto代理地址
+2. 新增两个 GitHub 镜像站
 
 # 网站镜像
 
@@ -56,13 +52,9 @@ https://sci-hub.org.cn/
 
 ## 维基百科
 
-https://zh.m.wiki.52qu.xyz/zh-cn/Wikipedia:首页
-
 https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
 https://fanqiang.yanke.info/scholar
-
-http://www.bosimedia.com/wiki/
 
 https://www.wanweibaike.com/ （部分内容进行改编以符合中国大陆政策）
 
