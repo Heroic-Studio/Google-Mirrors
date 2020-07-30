@@ -26,8 +26,6 @@ https://gug1.icu/
 
 https://gogoo.ml/
 
-https://sou.wvw.win/
-
 https://go.weihanli.xyz/
 
 https://google.heng07.com/
