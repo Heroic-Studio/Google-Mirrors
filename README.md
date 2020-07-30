@@ -46,6 +46,10 @@ https://www.dogedoge.com/ （非原版）
 
 https://g20.i-research.edu.eu.org/scholar
 
+https://gg.xueshu5.com/
+
+https://gfsoso.99lb.net/
+
 http://so.hiqq.com.cn/
 
 https://g3.luciaz.me/extdomains/scholar.google.com/
