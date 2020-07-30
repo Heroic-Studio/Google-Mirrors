@@ -22,13 +22,9 @@
 
 ## 谷歌搜索
 
-https://2.52qu.xyz/
-
 https://gug1.icu/
 
 https://gogoo.ml/
-
-https://g.wangcb.com/
 
 https://sou.wvw.win/
 
