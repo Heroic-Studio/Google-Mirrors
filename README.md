@@ -20,6 +20,10 @@
 
 ## 谷歌搜索
 
+https://g20.i-research.edu.eu.org/
+
+https://google.202014.xyz/webhp?hl=zh-CN
+
 https://gug1.icu/
 
 https://gogoo.ml/
@@ -39,6 +43,10 @@ https://g3.luciaz.me/
 https://www.dogedoge.com/ （非原版）
 
 ## 谷歌学术
+
+https://g20.i-research.edu.eu.org/scholar
+
+http://so.hiqq.com.cn/
 
 https://g3.luciaz.me/extdomains/scholar.google.com/
 
@@ -68,7 +76,9 @@ https://github.com.cnpmjs.org/（支持 git ）
 
 https://github.wuyanzheshui.workers.dev/
 
-## 大学提供的镜像站服务
+## 镜像站全集
+
+https://i-research.edu.eu.org/
 
 https://library.ac.cn/ （需验证是否来自该校）
 
