@@ -78,9 +78,9 @@ https://en.wanweibaike.com/ （英文）
 
 ## GitHub
 
-https://hub.fastgit.org/（支持 git ）
+https://hub.fastgit.org/ （支持`git`）
 
-https://github.com.cnpmjs.org/（支持 git ）
+https://github.com.cnpmjs.org/ （支持`git`）
 
 https://github.wuyanzheshui.workers.dev/
 
