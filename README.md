@@ -6,7 +6,7 @@
 
 *⚠所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
 
-**OVO-专业V2ray 千兆高速机场 多香港节点 看YouTube 4K无压力**
+**OVO-专业V2ray 廉价高速机场 多香港节点 看YouTube 4K无压力**
 
 **注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
 
