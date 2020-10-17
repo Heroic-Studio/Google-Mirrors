@@ -1,5 +1,7 @@
 # 你用得上的镜像网站
 
+[免费V2Ray节点](#v2ray订阅地址)
+
 **另有免费科学上网工具**
 
 *⚠️仅供学习交流使用*
@@ -116,7 +118,7 @@ Shadowrocket
 
 https://iamsjy.lanzous.com/iaa2vdg
 
-## V2Ray订阅地址（不保证可用）
+## V2Ray订阅地址
 ### 高速节点 香港日本台湾（10月20日到期）
 ```
 1. https://www.recear.xyz/link/7f6w9dVjzBdvC2Zj?list=shadowrocket
@@ -128,9 +130,7 @@ https://iamsjy.lanzous.com/iaa2vdg
 ### 长期有效
 ```
 https://ishare1024.netlify.com/
-
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
-
 https://jiang.netlify.com/?adoncn.com
 ```
 
