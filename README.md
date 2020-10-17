@@ -117,12 +117,22 @@ Shadowrocket
 https://iamsjy.lanzous.com/iaa2vdg
 
 ## V2Ray订阅地址（不保证可用）
+### 高速节点 香港日本台湾（10月20日到期）
+```
+1. https://www.recear.xyz/link/7f6w9dVjzBdvC2Zj?list=shadowrocket
+2. https://www.recear.xyz/link/MDdiSllazDFAxgaN?list=shadowrocket
+3. https://www.recear.xyz/link/dkQXJAM8mMjzhPz1?list=shadowrocket
+4. https://www.recear.xyz/link/4PP1ubAWiuKpmVQh?list=shadowrocket
+```
 
+### 长期有效
+```
 https://ishare1024.netlify.com/
 
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
 
 https://jiang.netlify.com/?adoncn.com
+```
 
 ## Telegram 代理
 
