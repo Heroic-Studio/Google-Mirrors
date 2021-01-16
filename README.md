@@ -14,7 +14,7 @@
 
 2021年1月16日更新：
 
-1. 增加一些 [MTProto 代理地址](#mptroto-代理)
+1.增加一些 Google 镜像地址 和 [MTProto 代理地址](#mptroto-代理)
 2. 移除失效地址
 
 # 网站镜像
@@ -22,6 +22,14 @@
 ## 谷歌搜索
 
 https://g20.i-research.edu.eu.org/
+
+https://google.myapis.top/
+
+http://g.histsci.org/
+
+http://www.google.cn.ua/
+
+https://txt.guoqiangti.ga
 
 https://gug1.icu/
 
