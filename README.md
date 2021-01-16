@@ -111,13 +111,12 @@ https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
 - [Shadowrocket](https://iamsjy.lanzous.com/iaa2vdg)
 
 ## V2Ray订阅地址
-### 高速节点 香港日本台湾（10月20日到期）
-```
-1. https://www.recear.xyz/link/7f6w9dVjzBdvC2Zj?list=shadowrocket
-2. https://www.recear.xyz/link/MDdiSllazDFAxgaN?list=shadowrocket
-3. https://www.recear.xyz/link/dkQXJAM8mMjzhPz1?list=shadowrocket
-4. https://www.recear.xyz/link/4PP1ubAWiuKpmVQh?list=shadowrocket
-```
+
+[1️⃣香港MTProto代理①](https://t.me/proxy?server=76.223.80.186&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
+[2️⃣香港MTProto代理②](https://t.me/proxy?server=13.248.199.150&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
+3️⃣韩国代理- -可能长期稳定
+[韩国1](https://t.me/proxy?server=agahk.v2raynb.xyz&port=1009&secret=7safY2ZpDA9b4nlEyhVkEG1henVyZS5taWNyb3NvZnQuY29t)
+[韩国2](https://t.me/proxy?server=152.67.198.134&port=443&secret=7safY2ZpDA9b4nlEyhVkEG1henVyZS5taWNyb3NvZnQuY29t)
 
 ### 长期有效
 ```
