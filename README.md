@@ -116,16 +116,6 @@ https://i-research.edu.eu.org/
 
 https://library.ac.cn/ （需验证是否来自该校）
 
-## Web代理
-
-https://zxfqhub.com/
-
-https://www.5414.cf/
-
-https://all.mk-proxy.tk/
-
-https://vu.qnid.cc/ （有可能会引起不适的广告，介意者勿使用）
-
 # 科学上网
 
 ## VPN软件
