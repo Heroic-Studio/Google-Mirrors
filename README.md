@@ -15,6 +15,7 @@
 2021年1月16日更新：
 
 1. 增加一些 [MTProto 代理地址](#mptroto-代理)
+2. 移除失效地址
 
 # 网站镜像
 
@@ -22,21 +23,11 @@
 
 https://g20.i-research.edu.eu.org/
 
-https://all.mk-proxy.tk/-----https://www.google.com/
-
-https://www.5414.cf/-----https://www.google.com/
-
-https://google.202014.xyz/webhp?hl=zh-CN
-
 https://gug1.icu/
-
-https://gogoo.ml/
 
 https://go.weihanli.xyz/
 
 https://google.heng07.com/
-
-http://g.dosnav.com/
 
 https://g3.luciaz.me/
 
