@@ -1,5 +1,5 @@
 # 你用得上的镜像网站
-随缘更新
+随缘更新中
 
 [免费V2Ray节点](#v2ray订阅地址)
 
@@ -145,7 +145,7 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
 https://jiang.netlify.com/?adoncn.com
 ```
 
-## MPTroto 代理
+## MTProto 代理
 （需复制到 Telegram 内打开）
 
 [1️⃣香港MTProto代理①](https://t.me/proxy?server=76.223.80.186&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
