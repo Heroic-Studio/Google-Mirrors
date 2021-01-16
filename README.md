@@ -86,6 +86,13 @@ https://scholar.niostack.com/
 https://sci-hub.org.cn/
 
 ## 维基百科
+https://zh.wikipedia.iwiki.eu.org/
+
+https://zh.iwiki.ml
+
+https://zh.wikipedia.ryancray.com
+
+
 
 https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
