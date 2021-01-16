@@ -34,18 +34,46 @@ https://g3.luciaz.me/
 ```````````````````````````````````````````````````
 其中一个问发帖量最大的版块，答案为：心灵之约
 ````````````````````````````````````````````````````
+https://search.lib.edu.eu.org
+
+https://us9060.scholar.eu.org
+
+https://g0.seuu.cf/
+```
+礼东的用途是什么
+答案：教学楼
+```
+https://g0.njuu.cf/
+```
+仙林五食堂哪个窗口最热门?
+答案：羊肉面
+```
+https://g0.hohai.cf/
+```
+江宁校区图书馆旧馆原称为逸夫图书馆，请问现在“逸夫图书馆”这五个字可以在旧馆的哪里被找到？
+答案：南门
+```
+https://g0.njust.cf/
+```
+大教超旁边是什么园?
+答案：止戈园
+```
 
 https://www.dogedoge.com/ （非原版）
 
 ## 谷歌学术
+
+https://g0.nuaa.cf/extdomains/scholar.google.com/
+
+https://sc.panda321.com/
+
+http://so.hiqq.com.cn/
 
 https://g20.i-research.edu.eu.org/scholar
 
 https://gg.xueshu5.com/
 
 https://gfsoso.99lb.net/
-
-http://so.hiqq.com.cn/
 
 https://g3.luciaz.me/extdomains/scholar.google.com/
 
