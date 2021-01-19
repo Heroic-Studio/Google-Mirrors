@@ -185,7 +185,8 @@ V2ray机场——OVO机场
 ![alipay][2]
 ![wechat][3]
 
-
+## 历史 Star 数
+[![Stargazers over time](https://starchart.cc/hmsjy2017/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
 
 
 
