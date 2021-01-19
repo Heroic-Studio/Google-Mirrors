@@ -15,7 +15,7 @@
 
 2021年1月16日更新：
 
-1. 增加一些 Google 镜像地址 和 [MTProto 代理地址](#mptroto-代理)
+1. 增加一些 Google 镜像地址 和 [MTProto 代理地址](#mtproto-代理)
 
 2. 移除失效地址
 
