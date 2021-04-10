@@ -13,9 +13,9 @@
 
 **注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
 
-2021年4月11日更新：
+2021 年 4 月 11 日更新：
 
-1. 增加一些 Google 镜像地址 
+1. 增加一些 Google、维基百科镜像地址 
 
 
 # 网站镜像
@@ -105,13 +105,18 @@ https://scholar.niostack.com/
 https://sci-hub.org.cn/
 
 ## 维基百科
-https://zh.wikipedia.iwiki.eu.org/
 
-https://zh.iwiki.ml
+https://www.wikipedia.ahmu.cf/
 
-https://zh.wikipedia.ryancray.com
+https://www.wikipedia.iwiki.eu.org/
 
+https://www.wikipedia.ahau.cf/
 
+https://www.wikipedia.hfut.cf/
+
+https://wiki.iamsjy.workers.dev/
+
+https://www.wikipedia.ryancray.com
 
 https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
@@ -129,13 +134,17 @@ https://github.com.cnpmjs.org/ （支持`git`）
 
 https://gitclone.com/（仅支持`git`）
 
+https://github.iamsjy.workers.dev/
+
 https://github.wuyanzheshui.workers.dev/
+
+
 
 ## 镜像站全集
 
 https://i-research.edu.eu.org/
 
-https://library.ac.cn/ （需验证是否来自该校）
+https://library.ac.cn/ 
 
 # 科学上网
 
