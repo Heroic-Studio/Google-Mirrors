@@ -17,6 +17,7 @@
 
 1. 增加一些 Google、维基百科镜像地址 
 
+2. 移除失效地址
 
 # 网站镜像
 
@@ -34,28 +35,17 @@ https://search.aufe.cf
 
 https://g20.i-research.edu.eu.org/
 
-https://google.myapis.top/
-
-http://g.histsci.org/
-
 http://www.google.cn.ua/
 
 https://txt.guoqiangti.ga
 
-https://gug1.icu/
-
 https://go.weihanli.xyz/
-
-https://google.heng07.com/
 
 https://g3.luciaz.me/
 
 ```````````````````````````````````````````````````
 其中一个问发帖量最大的版块，答案为：心灵之约
 ````````````````````````````````````````````````````
-https://search.lib.edu.eu.org
-
-https://us9060.scholar.eu.org
 
 https://g0.seuu.cf/
 ```
@@ -77,8 +67,6 @@ https://g0.njust.cf/
 大教超旁边是什么园?
 答案：止戈园
 ```
-
-https://www.dogedoge.com/ （非原版）
 
 ## 谷歌学术
 
