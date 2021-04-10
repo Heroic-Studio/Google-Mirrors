@@ -13,15 +13,24 @@
 
 **注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
 
-2021年1月16日更新：
+2021年4月11日更新：
 
-1. 增加一些 Google 镜像地址 和 [MTProto 代理地址](#mtproto-代理)
+1. 增加一些 Google 镜像地址 
 
-2. 移除失效地址
 
 # 网站镜像
 
 ## 谷歌搜索
+
+https://search.ahnu.cf/
+
+https://search.ahut.cf
+
+https://search.hfut.cf/
+
+https://search.ahau.cf/
+
+https://search.aufe.cf
 
 https://g20.i-research.edu.eu.org/
 
