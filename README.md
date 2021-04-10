@@ -15,7 +15,7 @@
 
 2021 年 4 月 11 日更新：
 
-1. 增加一些 Google、维基百科镜像地址 
+1. 增加一些 Google、维基百科、谷歌学术镜像地址 
 
 2. 移除失效地址
 
@@ -70,21 +70,35 @@ https://g0.njust.cf/
 
 ## 谷歌学术
 
+https://us3111.scholar.eu.org
+
+https://us2172.scholar.eu.org
+
+https://hk7194.scholar.eu.org
+
+https://us3124.scholar.eu.org
+
+https://us8225.scholar.eu.org
+
+https://hk5119.scholar.eu.org
+
+https://us5065.scholar.eu.org
+
+https://hk1156.scholar.eu.org
+
+https://hk7194.scholar.eu.org
+
 https://g0.nuaa.cf/extdomains/scholar.google.com/
 
 https://sc.panda321.com/
 
 http://so.hiqq.com.cn/
 
-https://g20.i-research.edu.eu.org/scholar
-
 https://gg.xueshu5.com/
 
 https://gfsoso.99lb.net/
 
 https://g3.luciaz.me/extdomains/scholar.google.com/
-
-https://en.yaodeyo.com:92/
 
 https://xueshu.soogle.top/
 
