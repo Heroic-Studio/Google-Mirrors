@@ -11,7 +11,7 @@
 
 **OVO-专业V2ray 廉价高速机场 多香港节点 看YouTube 4K无压力**
 
-**注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
+**注册链接：https://ovocloud.cc/#/register?code=28A42L72
 
 2021 年 4 月 11 日更新：
 
