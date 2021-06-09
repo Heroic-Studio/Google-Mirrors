@@ -47,8 +47,6 @@ http://www.google.cn.ua/
 
 https://txt.guoqiangti.ga
 
-https://go.weihanli.xyz/
-
 https://g3.luciaz.me/
 
 ```````````````````````````````````````````````````
