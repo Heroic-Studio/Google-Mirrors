@@ -55,25 +55,11 @@ https://g3.luciaz.me/
 
 ## 谷歌学术
 
-https://us3111.scholar.eu.org
+https://scholar.ustc.cf
 
-https://us2172.scholar.eu.org
+https://scholar.lanfanshu.cn/
 
-https://hk7194.scholar.eu.org
-
-https://us3124.scholar.eu.org
-
-https://us8225.scholar.eu.org
-
-https://hk5119.scholar.eu.org
-
-https://us5065.scholar.eu.org
-
-https://hk1156.scholar.eu.org
-
-https://hk7194.scholar.eu.org
-
-https://g0.nuaa.cf/extdomains/scholar.google.com/
+https://sc.panda321.com/
 
 https://sc.panda321.com/
 
