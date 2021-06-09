@@ -105,7 +105,7 @@ https://hub.fastgit.org/ （支持`git`）
 
 https://github.com.cnpmjs.org/ （支持`git`）
 
-https://gitclone.com/（仅支持`git`）
+https://gitclone.com/ （仅支持`git`）
 
 https://github.iamsjy.workers.dev/
 
