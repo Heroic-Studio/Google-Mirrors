@@ -119,6 +119,12 @@ https://a0.bucm.cf
 
 https://a0.library.edu.eu.org/
 
+## DuckDuckGo
+
+https://ddg0.bucm.cf
+
+https://ddg0.library.edu.eu.org
+
 ## GitHub
 
 https://hub.おうか.tw
@@ -162,32 +168,13 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
 https://jiang.netlify.com/?adoncn.com
 ```
 
-## MTProto 代理
-（需复制到 Telegram 内打开）
-
-[1️⃣香港MTProto代理①](https://t.me/proxy?server=76.223.80.186&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
-
-[2️⃣香港MTProto代理②](https://t.me/proxy?server=13.248.199.150&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
-
-3️⃣韩国代理- -可能长期稳定
-
-- [韩国1](https://t.me/proxy?server=agahk.v2raynb.xyz&port=1009&secret=7safY2ZpDA9b4nlEyhVkEG1henVyZS5taWNyb3NvZnQuY29t)
-
-- [韩国2](https://t.me/proxy?server=152.67.198.134&port=443&secret=7safY2ZpDA9b4nlEyhVkEG1henVyZS5taWNyb3NvZnQuY29t)
-
-或脚本自行搭建：
-
-https://github.com/shellhub/shellhub/blob/master/proxy/mt_proxy.sh
-
 # 机场推荐
 
-V2ray机场——OVO机场
+OVO-专业Trojan 
 
-300G流量
+价格实惠网速快
 
-~~1元/月~~ 已涨价
-
-点击进入官网→https://v2.qovoq.ml
+点击进入官网 → https://ovocloud.cc/
 
 
 ## 注意
