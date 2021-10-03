@@ -55,7 +55,9 @@ https://g3.luciaz.me/
 
 ## 谷歌学术
 
-https://scholar.ustc.cf
+https://en.yaodeyo.com:92
+
+https://xs.dailyheadlines.cc
 
 https://scholar.lanfanshu.cn/
 
@@ -69,8 +71,6 @@ https://gg.xueshu5.com/
 
 https://gfsoso.99lb.net/
 
-https://g3.luciaz.me/extdomains/scholar.google.com/
-
 https://xueshu.soogle.top/
 
 https://scholar.niostack.com/
@@ -78,6 +78,8 @@ https://scholar.niostack.com/
 https://sci-hub.org.cn/
 
 ## 维基百科
+
+https://www.wikipedia.維基.台灣
 
 https://www.wikipedia.ahmu.cf/
 
@@ -98,6 +100,24 @@ https://fanqiang.yanke.info/scholar
 https://www.wanweibaike.com/ （部分内容进行改编以符合中国大陆政策）
 
 https://en.wanweibaike.com/ （英文）
+
+## Sci-Hub
+
+https://sci-hub.shop
+
+https://sci-hub.st
+
+https://sci-hub.ee
+
+https://sci-hub.se
+
+https://www.sci-hub.bar
+
+https://sci-hub.tf
+
+https://sci-hub.ren
+
+https://citationsy.com/archives/
 
 ## GitHub
 
