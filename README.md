@@ -23,23 +23,23 @@
 
 ## 谷歌搜索
 
-https://vulcanus.shuu.cf/extdomains/www.google.com.hk
+https://eurybia.xn--pckl1n.tw/
 
-https://aether.shuu.cf/extdomains/www.google.com.sg
+https://anemoi.shuu.cf/
 
-https://anemoi.shuu.cf/extdomains/www.google.com.sg
+https://search.xn--pckl1n.tw/
 
-https://achelois.shuu.cf/extdomains/www.google.com.sg
+https://atlas.xn--pckl1n.tw/
 
-https://diana.shuu.cf/extdomains/www.google.com.hk
+https://juno.shuu.cf/
 
-https://mars.shuu.cf/extdomains/www.google.com.hk
+https://ceres.shuu.cf/
 
-https://aiolos.shuu.cf/extdomains/www.google.co.jp
+https://diana.shuu.cf/
 
-https://juno.shuu.cf/extdomains/www.google.com.hk
+https://search.iwiki.uk/
 
-https://ceres.shuu.cf/extdomains/www.google.com.hk
+https://mars.shuu.cf/
 
 https://g20.i-research.edu.eu.org/
 
