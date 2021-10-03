@@ -14,9 +14,9 @@
 
 **注册链接：https://ovocloud.cc/#/register?code=28A42L72**
 
-我所用的节点：
-![hk](https://www.speedtest.net/result/i/4792730623.png)
-![tw](https://www.speedtest.net/result/i/4792738495.png)
+**2021.10.2 测速结果：**  
+**香港：https://www.speedtest.net/result/i/4792730623**  
+**台湾：https://www.speedtest.net/result/i/4792738495**
 *****
 
 # 网站镜像
