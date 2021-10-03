@@ -121,7 +121,17 @@ https://sci-hub.ren
 
 https://citationsy.com/archives/
 
+## Internet Archive
+
+https://a0.bucm.cf
+
+https://a0.library.edu.eu.org/
+
 ## GitHub
+
+https://hub.おうか.tw
+
+https://hub.連接.台灣
 
 https://hub.fastgit.org/ （支持`git`）
 
