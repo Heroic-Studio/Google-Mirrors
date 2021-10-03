@@ -23,13 +23,13 @@
 
 ## 谷歌搜索
 
-https://eurybia.xn--pckl1n.tw/
+https://eurybia.サクラ.tw
 
 https://anemoi.shuu.cf/
 
-https://search.xn--pckl1n.tw/
+https://search.サクラ.tw
 
-https://atlas.xn--pckl1n.tw/
+https://atlas.サクラ.tw
 
 https://juno.shuu.cf/
 
