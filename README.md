@@ -9,7 +9,7 @@
 
 *⚠所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
 *****
-**AD：**  
+# AD
 **OVO-专业Trojan 机场，价格实惠节点多，看YouTube 4K无压力**
 
 **注册链接：https://ovocloud.cc/#/register?code=28A42L72**
