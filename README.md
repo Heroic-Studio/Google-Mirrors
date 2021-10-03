@@ -103,6 +103,8 @@ https://en.wanweibaike.com/ （英文）
 
 ## Sci-Hub
 
+https://sci.hubg.org
+
 https://sci-hub.shop
 
 https://sci-hub.st
