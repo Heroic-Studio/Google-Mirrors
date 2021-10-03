@@ -91,15 +91,7 @@ https://www.wikipedia.hfut.cf/
 
 https://wiki.iamsjy.workers.dev/
 
-https://www.wikipedia.ryancray.com
-
 https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-
-https://fanqiang.yanke.info/scholar
-
-https://www.wanweibaike.com/ （部分内容进行改编以符合中国大陆政策）
-
-https://en.wanweibaike.com/ （英文）
 
 ## Sci-Hub
 
