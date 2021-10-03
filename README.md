@@ -175,8 +175,13 @@ OVO-专业Trojan
 价格实惠网速快
 
 点击进入官网 → https://ovocloud.cc/
+
+10月2日实测：
+
+**香港节点**
 ![hk](https://user-images.githubusercontent.com/42692274/135743685-e29554d7-b344-4067-b863-788c90441d05.png)
 
+**台湾节点**
 ![tw](https://user-images.githubusercontent.com/42692274/135743692-1c23579c-77a6-4f26-884d-818dd25da996.png)
 
 
