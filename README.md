@@ -3,7 +3,7 @@
 
 [免费V2Ray节点](#v2ray订阅地址)
 
-自建免费 Trojan 欢迎使用：
+自建免费 Trojan 节点欢迎使用：
 
 （德国 Hax.co.id）
 
