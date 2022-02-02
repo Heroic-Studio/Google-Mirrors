@@ -3,12 +3,6 @@
 
 [免费V2Ray节点](#v2ray订阅地址)
 
-自建免费 Trojan 节点欢迎使用：
-
-（德国 Hax.co.id）
-
-trojan://hax%40trojan_eu@91.134.238.131:6266#Hax.co.id
-
 **另有免费科学上网工具**
 
 *⚠️仅供学习交流使用*
@@ -31,21 +25,9 @@ trojan://hax%40trojan_eu@91.134.238.131:6266#Hax.co.id
 
 ## 谷歌搜索
 
-https://eurybia.サクラ.tw
+https://search.みさか.tw
 
-https://anemoi.shuu.cf/
-
-https://search.サクラ.tw
-
-https://atlas.サクラ.tw
-
-https://juno.shuu.cf/
-
-https://ceres.shuu.cf/
-
-https://diana.shuu.cf/
-
-https://search.iwiki.uk/
+https://search.iwiki.uk
 
 https://mars.shuu.cf/
 
