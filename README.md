@@ -25,6 +25,8 @@
 
 ## 谷歌搜索
 
+https://www.xn--flw351e.cf/
+
 https://search.みさか.tw
 
 https://search.iwiki.uk
