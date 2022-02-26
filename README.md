@@ -123,17 +123,11 @@ https://hub.おうか.tw
 
 https://hub.連接.台灣
 
-https://hub.fastgit.org/ （支持`git`）
+https://hub.fastgit.xyz （支持`git`）
 
-https://github.com.cnpmjs.org/ （支持`git`）
+http://githubcdn.ml/
 
 https://gitclone.com/ （仅支持`git`）
-
-https://github.iamsjy.workers.dev/
-
-https://github.wuyanzheshui.workers.dev/
-
-
 
 ## 镜像站全集
 
