@@ -71,7 +71,11 @@ https://sci-hub.org.cn/
 
 ## 维基百科
 
+https://wiki.aubreyf.workers.dev
+
 https://www.wikipedia.維基.台灣
+
+https://www.wikipedia.iwiki.uk
 
 https://www.wikipedia.ahmu.cf/
 
@@ -126,6 +130,8 @@ https://hub.連接.台灣
 https://hub.fastgit.xyz （支持`git`）
 
 http://githubcdn.ml/
+
+https://cdn.githubjs.cf
 
 https://gitclone.com/ （仅支持`git`）
 
@@ -189,5 +195,5 @@ OVO-专业Trojan
 
 
   [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
-  [2]: https://cdn.jsdelivr.net/gh/hmsjy2017/Google-Mirrors@master/alipay_185x288.jpg
-  [3]: https://cdn.jsdelivr.net/gh/hmsjy2017/Google-Mirrors@master/wechat_210x288.png
+  [2]: https://mirror.js.org/alipay_185x288.jpg
+  [3]: https://mirror.js.org/wechat_210x288.png
