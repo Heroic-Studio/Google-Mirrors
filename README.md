@@ -25,6 +25,8 @@
 
 ## 谷歌搜索
 
+https://google.pem.app
+
 https://www.xn--flw351e.cf/
 
 https://search.みさか.tw
