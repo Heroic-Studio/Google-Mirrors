@@ -25,6 +25,10 @@
 
 ## 谷歌搜索
 
+https://www.qinai.ml
+
+https://www.googlejxz.ml
+
 https://google.pem.app
 
 https://www.xn--flw351e.cf/
