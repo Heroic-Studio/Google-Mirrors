@@ -25,6 +25,8 @@
 
 ## 谷歌搜索
 
+https://go.lizmt.cn
+
 https://www.qinai.ml
 
 https://www.googlejxz.ml
