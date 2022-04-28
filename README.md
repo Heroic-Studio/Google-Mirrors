@@ -25,6 +25,8 @@
 
 ## 谷歌搜索
 
+https://www.paddy.ml/
+
 https://go.lizmt.cn
 
 https://www.qinai.ml
