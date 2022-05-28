@@ -23,6 +23,11 @@
 
 # 网站镜像
 
+## Jsdelivr
+综合:https://jsd.awa.rocks/
+Vercel:https://jsdelivr-cdn.vercel.app/
+Cloudflare:https://jsdelivr-proxy.pages.dev (一天10万次请求)
+
 ## 谷歌搜索
 
 https://www.paddy.ml/
