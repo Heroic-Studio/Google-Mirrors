@@ -27,8 +27,6 @@
 
 https://www.paddy.ml/
 
-https://go.lizmt.cn
-
 https://www.qinai.ml
 
 https://www.googlejxz.ml
