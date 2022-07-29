@@ -32,35 +32,23 @@ Cloudflare: https://jsdelivr-proxy.pages.dev/ (一天10万次请求)
 
 ## 谷歌搜索
 
-https://www.paddy.ml/
-
-https://www.qinai.ml
-
-https://www.googlejxz.ml
-
-https://google.pem.app
-
-https://www.xn--flw351e.cf/
-
-https://search.みさか.tw
-
-https://search.iwiki.uk
-
-https://mars.shuu.cf/
+https://www.qinai.ml/
 
 https://g20.i-research.edu.eu.org/
 
-http://www.google.cn.ua/
+https://search.aust.cf/
 
-https://txt.guoqiangti.ga
+https://search.ecnu.cf/
 
-https://g3.luciaz.me/
+https://search.ahau.cf/
 
-```````````````````````````````````````````````````
-其中一个问发帖量最大的版块，答案为：心灵之约
-````````````````````````````````````````````````````
+https://search.njau.cf/
 
 ## 谷歌学术
+
+https://xs2.dailyheadlines.cc/
+
+https://xueshu.dailyheadlines.cc/
 
 https://en.yaodeyo.com:92
 
@@ -70,41 +58,37 @@ https://scholar.lanfanshu.cn/
 
 https://sc.panda321.com/
 
-https://sc.panda321.com/
-
 http://so.hiqq.com.cn/
 
 https://gg.xueshu5.com/
 
 https://gfsoso.99lb.net/
 
-https://xueshu.soogle.top/
-
 https://scholar.niostack.com/
-
-https://sci-hub.org.cn/
 
 ## 维基百科
 
-https://wiki.aubreyf.workers.dev
+https://www.wikipedia.ahut.cf/
 
-https://www.wikipedia.維基.台灣
-
-https://www.wikipedia.iwiki.uk
+https://www.wikipedia.shisu.cf/
 
 https://www.wikipedia.ahmu.cf/
-
-https://www.wikipedia.iwiki.eu.org/
 
 https://www.wikipedia.ahau.cf/
 
 https://www.wikipedia.hfut.cf/
 
-https://wiki.iamsjy.workers.dev/
-
-https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-
 ## Sci-Hub
+
+https://sci-hub.org.cn
+
+https://sci-hub.ru
+
+https://sci-hub.et-fine.com
+
+https://sci-hub.wf
+
+https://sci-hub.yt
 
 https://sci.hubg.org
 
@@ -112,17 +96,11 @@ https://sci-hub.shop
 
 https://sci-hub.st
 
-https://sci-hub.ee
-
 https://sci-hub.se
-
-https://www.sci-hub.bar
 
 https://sci-hub.tf
 
 https://sci-hub.ren
-
-https://citationsy.com/archives/
 
 ## Internet Archive
 
