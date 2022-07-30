@@ -207,10 +207,10 @@ OVO-专业Trojan
 ![wechat][3]
 
 ## 历史 Star 数
-[![Stargazers over time](https://starchart.cc/hmsjy2017/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
+[![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
 
 
 
-  [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
+  [1]: https://github.com/Heroic-Studio/Google-Mirrors/issues/new
   [2]: https://mirror.js.org/alipay_185x288.jpg
   [3]: https://mirror.js.org/wechat_210x288.png
