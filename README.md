@@ -1,6 +1,10 @@
 # 你用得上的镜像网站
 随缘更新中
 
+### 更新日志
+
+2022.7.30日由墨尘更新Jsdelivr,CDNJS镜像
+
 [免费V2Ray节点](#v2ray订阅地址)
 
 **另有免费科学上网工具**
@@ -24,11 +28,31 @@
 # 网站镜像
 
 ## Jsdelivr
-综合: https://jsd.awa.rocks/
 
-Vercel: https://jsdelivr-cdn.vercel.app/
+https://jsd.miaowuawa.cn/
 
-Cloudflare: https://jsdelivr-proxy.pages.dev/ (一天10万次请求)
+https://jsd.onmicrosoft.cn/ 
+
+https://cdn-js.moeworld.top/  #<a href="https://blog.moeworld.tech/2022/01/29/%E5%88%A9%E7%94%A8-cloudflare-%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84jsdelir%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90/">使用限制</a>
+
+https://cdn.bilicdn.tk/  #由GamerNoTitle提供
+
+https://cdn1.tianli0.top/  #由Tianli提供  <a href="https://tianli-blog.club/%e5%85%8d%e8%b4%b9jsd%e9%95%9c%e5%83%8f%e4%bd%bf%e7%94%a8%e6%89%8b%e5%86%8c/">使用须知</a>
+
+## CDNJS
+
+https://cdn.bootcdn.net/ajax/libs
+
+https://lib.baomitu.com
+
+https://mirrors.cqupt.edu.cn/cdnjs/ajax/libs # 重庆邮电
+
+https://cdn.staticfile.org
+
+https://mirrors.sustech.edu.cn/cdnjs/ajax/libs # 南大
+
+https://cdnjs.sourcegcdn.com/ajax/libs # 全量同步 https://cdnjs.cloudflare.com
+
 
 ## 谷歌搜索
 
