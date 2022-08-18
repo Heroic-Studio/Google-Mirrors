@@ -56,6 +56,10 @@ https://cdnjs.sourcegcdn.com/ajax/libs # 全量同步 https://cdnjs.cloudflare.c
 
 ## 谷歌搜索
 
+https://g.luciaz.me/
+```
+第一个问题答案：心理之约
+```
 https://www.qinai.ml/
 
 https://g20.i-research.edu.eu.org/
