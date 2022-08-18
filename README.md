@@ -17,7 +17,7 @@
 # AD
 **OVO-专业Trojan 机场，价格实惠节点多，看YouTube 4K无压力**
 
-**注册链接：https://ovocloud.cc/#/register?code=28A42L72**
+**注册链接：https://ovodisk.cc/#/register?code=28A42L72**
 
 **2021.10.2 测速结果：**  
 **香港：https://www.speedtest.net/result/i/4792730623**  
