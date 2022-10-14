@@ -19,7 +19,7 @@
 # AD
 **OVO-专业Trojan 机场，价格实惠节点多，看YouTube 4K无压力**
 
-**注册链接：https://ovodisk.cc/#/register?code=28A42L72**
+**注册链接：https://ovodisk.com/#/register?code=28A42L72**
 
 **2021.10.2 测速结果：**  
 **香港：https://www.speedtest.net/result/i/4792730623**  
@@ -218,9 +218,6 @@ OVO-专业Trojan
 
 2.如有失效或镜像站推荐，请[提交 issue][1]，我会及时更新。
 
-## 捐助
-![alipay][2]
-![wechat][3]
 
 ## 历史 Star 数
 [![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
@@ -228,5 +225,3 @@ OVO-专业Trojan
 
 
   [1]: https://github.com/Heroic-Studio/Google-Mirrors/issues/new
-  [2]: https://mirror.js.org/alipay_185x288.jpg
-  [3]: https://mirror.js.org/wechat_210x288.png
