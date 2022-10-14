@@ -199,7 +199,7 @@ OVO-专业Trojan
 
 价格实惠网速快
 
-点击进入官网 → https://ovocloud.cc/
+点击进入官网 → [https://ovodisk.com](https://ovodisk.com/#/register?code=28A42L72)
 
 10月2日实测：
 
