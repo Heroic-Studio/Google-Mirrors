@@ -2,13 +2,16 @@
 随缘更新中
 
 ### 更新日志
+<details>
+<summary>点击查看</summary>
+2022.12.18 新增Google，GitHub镜像
 
 2022.11.11 全面更新镜像地址
 
 2022.7.30日由墨尘更新Jsdelivr,CDNJS镜像
 
 2022.8.20日由墨尘更新免费V2ray,Google镜像站地址
-
+</details>
 
 **另有免费科学上网工具**
 
