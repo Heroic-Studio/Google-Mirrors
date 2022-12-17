@@ -55,6 +55,8 @@ https://googe.fun
 
 https://s.iit.xyz
 
+https://google.qinai.life/
+
 ## 谷歌学术
 
 https://xs2.zidianzhan.net
@@ -115,6 +117,8 @@ https://hub.njuu.cf/
 https://hub.nuaa.cf/
 
 https://gitclone.com/ （仅支持`git`）
+
+https://kgithub.com/
 
 ## Jsdelivr
 
