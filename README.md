@@ -23,16 +23,15 @@
 
 # AD
 **OVO-专业养鸡场 价格实惠节点多**  
-**CN2和IEPL尽情体验**  
+**CN2和IEPL优质线路尽情体验**  
 **全中转线路 看YouTube 4K无压力**
 
 **点击注册：[https://ovodisk.com/#/register?code=28A42L72](https://ovodisk.com/#/register?code=28A42L72)**
-
-**2021.10.2 测速结果：**  
-**香港：https://www.speedtest.net/result/i/4792730623**  
-**台湾：https://www.speedtest.net/result/i/4792738495**
-
 *****
+**云端云Onfly新鸡场 价格实惠节点多**  
+**解锁部分流媒体**  
+
+**点击注册：[https://onfly.vip/#/register?code=ccP1TUsg](https://onfly.vip/#/register?code=ccP1TUsg)**
 
 # 网站镜像
 
@@ -87,6 +86,13 @@ https://g88.i-research.edu.eu.org/ggxs/
 
 https://www.wikipedia.shutcm.cf
 
+https://www.wikipedia.njau.cf/
+
+https://www.wikipedia.aust.cf/
+
+https://www.wikipedia.ecnu.cf/
+
+https://zh.wikipedia.wmmirror.live/wiki/
 
 ## Sci-Hub
 
