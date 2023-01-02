@@ -5,6 +5,8 @@
 ### 更新日志
 <details>
 <summary>点击查看</summary>
+2023.1.3 新增Wikipedia镜像
+
 2022.12.18 新增Google，GitHub镜像
 
 2022.11.11 全面更新镜像地址
