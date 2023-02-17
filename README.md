@@ -2,7 +2,12 @@
 随缘更新中
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeroic-Studio%2FGoogle-Mirrors&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### 更新日志
+
+## ⚠服务条款
+*本仓库收集的镜像站仅供学习研究使用，严禁滥用或用于非法用途，如有违反，造成任何后果与本人无关。*
+
+*所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
+## 更新日志
 <details>
 <summary>点击查看</summary>
 2023.2.18 移除失效地址，新增Google镜像
@@ -18,11 +23,6 @@
 2022.8.20日由墨尘更新免费V2ray,Google镜像站地址
 </details>
 
-**另有免费科学上网工具**
-
-*⚠️仅供学习交流使用*
-
-*⚠所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
 *****
 
 # AD
