@@ -5,6 +5,8 @@
 ### 更新日志
 <details>
 <summary>点击查看</summary>
+2023.2.18 移除失效地址，新增Google镜像
+
 2023.1.3 新增Wikipedia镜像
 
 2022.12.18 新增Google，GitHub镜像
@@ -44,10 +46,6 @@ https://g.luciaz.me/
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
 
-https://g20.i-research.edu.eu.org/
-
-https://g88.i-research.edu.eu.org
-
 https://search.aust.cf/
 
 https://search.ecnu.cf/
@@ -60,15 +58,11 @@ https://googe.fun
 
 https://s.iit.xyz
 
-https://google.qinai.life/
+https://google.qinai.blog/
 
 ## 谷歌学术
 
 https://xs2.zidianzhan.net
-
-https://xueshu.dailyheadlines.net
-
-https://xs.dailyheadlines.net
 
 https://scholar.lanfanshu.cn/
 
@@ -82,25 +76,15 @@ https://gfsoso.99lb.net/
 
 https://scholar.niostack.com/
 
-https://g88.i-research.edu.eu.org/ggxs/
-
 ## 维基百科
 
 https://www.wikipedia.shutcm.cf
 
-https://www.wikipedia.njau.cf/
-
-https://www.wikipedia.aust.cf/
-
 https://www.wikipedia.ecnu.cf/
-
-https://zh.wikipedia.wmmirror.live/wiki/
 
 ## Sci-Hub
 
 https://sci-hub.org.cn
-
-https://sci-hub.ru
 
 https://sci-hub.et-fine.com
 
@@ -124,8 +108,6 @@ https://sci-hub.ren
 
 https://hub.yzuu.cf/
 
-https://hub.njuu.cf/
-
 https://hub.nuaa.cf/
 
 https://gitclone.com/ （仅支持`git`）
@@ -135,8 +117,6 @@ https://kgithub.com/
 ## Jsdelivr
 
 https://jsd.onmicrosoft.cn/ 
-
-https://cdn-js.moeworld.top/  （<a href="https://blog.moeworld.tech/2022/01/29/%E5%88%A9%E7%94%A8-cloudflare-%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84jsdelir%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90/">使用限制</a>）
 
 https://cdn1.tianli0.top/  （由Tianli提供  <a href="https://tianli-blog.club/%e5%85%8d%e8%b4%b9jsd%e9%95%9c%e5%83%8f%e4%bd%bf%e7%94%a8%e6%89%8b%e5%86%8c/">使用须知</a>）
 
@@ -153,13 +133,6 @@ https://cdn.staticfile.org
 https://mirrors.sustech.edu.cn/cdnjs/ajax/libs （南大）
 
 https://cdnjs.sourcegcdn.com/ajax/libs （全量同步 https://cdnjs.cloudflare.com）
-
-
-## 镜像站全集
-
-https://i-research.edu.eu.org/
-
-https://library.ac.cn/ 
 
 # 机场推荐
 
