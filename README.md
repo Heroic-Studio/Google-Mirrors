@@ -6,10 +6,13 @@
 ## ⚠服务条款
 *本仓库收集的镜像站仅供学习研究使用，严禁滥用或用于非法用途，如有违反，造成任何后果与本人无关。*
 
-*所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
+*所有镜像站部分搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
 ## 更新日志
 <details>
 <summary>点击查看</summary>
+
+2023.2.23 更新Wikipedia镜像站
+
 2023.2.18 移除失效地址，新增Google镜像
 
 2023.1.3 新增Wikipedia镜像
@@ -78,9 +81,7 @@ https://scholar.niostack.com/
 
 ## 维基百科
 
-https://www.wikipedia.shutcm.cf
-
-https://www.wikipedia.ecnu.cf/
+https://zhwiki.socks5.ga
 
 ## Sci-Hub
 
