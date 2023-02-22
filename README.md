@@ -150,10 +150,11 @@ CN2和IEPL尽情体验 价格实惠网速快
 
 ## 注意
 
-1.镜像站封锁严重，存活不易，请珍惜。
+1. 镜像站封锁严重，存活不易，请珍惜。
 
-2.如有失效或镜像站推荐，请[提交 issue][1]，我会及时更新。
+2. 如有失效或镜像站推荐，请 [提交 issue][1]，我会不定期更新。
 
+3. 由于本项目的公益性，无法保证 SLA。如对稳定性有要求，建议自建镜像站。
 
 ## 历史 Star 数
 [![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
