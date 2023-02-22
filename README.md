@@ -1,5 +1,5 @@
 # 你用得上的镜像网站
-随缘更新中
+由于时间有限，可能无法及时更新，敬请谅解！
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeroic-Studio%2FGoogle-Mirrors&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -11,7 +11,7 @@
 <details>
 <summary>点击查看</summary>
 
-2023.2.23 更新Wikipedia镜像站
+2023.2.23 更新Wikipedia镜像站，移除Google失效镜像
 
 2023.2.18 移除失效地址，新增Google镜像
 
@@ -34,7 +34,9 @@
 **全中转线路 看YouTube 4K无压力**
 
 **点击注册：[https://ovodisk.com/#/register?code=28A42L72](https://ovodisk.com/#/register?code=28A42L72)**
+
 *****
+
 **云端云Onfly新鸡场 价格实惠节点多**  
 **解锁部分流媒体**  
 
@@ -48,14 +50,6 @@ https://g.luciaz.me/
 ```
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
-
-https://search.aust.cf/
-
-https://search.ecnu.cf/
-
-https://search.njau.cf/
-
-https://dhobi.win
 
 https://googe.fun
 
