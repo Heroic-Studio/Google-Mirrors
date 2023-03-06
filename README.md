@@ -33,7 +33,8 @@
 **CN2和IEPL优质线路尽情体验**  
 **全中转线路 看YouTube 4K无压力**
 
-**点击注册：[https://ovodisk.com/#/register?code=28A42L72](https://ovodisk.com/#/register?code=28A42L72)**
+**点击注册：[https://ovoyun.top/#/register?code=28A42L72](https://ovoyun.top/#/register?code=28A42L72) (域名已更新）**
+
 
 *****
 
@@ -135,7 +136,7 @@ OVO-专业养鸡场
 
 CN2和IEPL尽情体验 价格实惠网速快
 
-点击进入官网 → [https://ovodisk.com](https://ovodisk.com/#/register?code=28A42L72)
+点击进入官网 → [https://ovoyun.top](https://ovoyun.top/#/register?code=28A42L72)
 
 10月2日实测：
 
