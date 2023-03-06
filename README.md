@@ -33,7 +33,8 @@
 **CN2和IEPL优质线路尽情体验**  
 **全中转线路 看YouTube 4K无压力**
 
-**点击注册：[https://ovoyun.top/#/register?code=28A42L72](https://ovoyun.top/#/register?code=28A42L72) (域名已更新）**
+**点击注册：[https://ovoyun.top/#/register?code=28A42L72](https://ovoyun.top/#/register?code=28A42L72)**
+**(域名已更新）**
 
 
 *****
