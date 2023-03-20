@@ -44,6 +44,10 @@
 
 **点击注册：[https://onfly.vip/#/register?code=ccP1TUsg](https://onfly.vip/#/register?code=ccP1TUsg)**
 
+*****
+
+[RackNerd](https://my.racknerd.com/aff.php?aff=6767) 高性价比美国 VPS 年付仅 $10.18 起，[点击查看优惠信息](https://blog.iamsjy.com/2023/03/19/racknerd-vps/)
+
 # 网站镜像
 
 ## 谷歌搜索
