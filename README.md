@@ -11,6 +11,8 @@
 <details>
 <summary>点击查看</summary>
 
+2023.5.20 更新各类镜像地址
+  
 2023.2.23 更新Wikipedia镜像站，移除Google失效镜像
 
 2023.2.18 移除失效地址，新增Google镜像
@@ -21,9 +23,9 @@
 
 2022.11.11 全面更新镜像地址
 
-2022.7.30日由墨尘更新Jsdelivr,CDNJS镜像
+2022.7.30 由墨尘更新Jsdelivr,CDNJS镜像
 
-2022.8.20日由墨尘更新免费V2ray,Google镜像站地址
+2022.8.20 由墨尘更新免费V2ray,Google镜像站地址
 </details>
 
 *****
@@ -41,10 +43,6 @@
 **IPLC/IEPL 专线接入 尽享极致网速**  
 **[点击注册](https://onfly.vip/#/register?code=ccP1TUsg)**
 
-*****
-
-[RackNerd](https://my.racknerd.com/aff.php?aff=6767) 高性价比美国 VPS 年付仅 $10.18 起，[点击查看优惠信息](https://blog.iamsjy.com/2023/03/19/racknerd-vps/)
-
 # 网站镜像
 
 ## 谷歌搜索
@@ -54,15 +52,11 @@ https://g.luciaz.me/
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
 
-https://googe.fun
-
 https://s.iit.xyz
 
-https://google.qinai.blog/
+https://search.vwo50.me/
 
 ## 谷歌学术
-
-https://xs2.zidianzhan.net
 
 https://scholar.lanfanshu.cn/
 
@@ -78,7 +72,9 @@ https://scholar.niostack.com/
 
 ## 维基百科
 
-https://zhwiki.socks5.ga
+https://zh-two.iwiki.icu/ （中文）
+
+https://en-two.iwiki.icu/ （英文）
 
 ## Sci-Hub
 
@@ -109,8 +105,6 @@ https://hub.yzuu.cf/
 https://hub.nuaa.cf/
 
 https://gitclone.com/ （仅支持`git`）
-
-https://kgithub.com/
 
 ## Jsdelivr
 
