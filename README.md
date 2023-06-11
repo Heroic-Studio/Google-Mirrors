@@ -52,9 +52,13 @@ https://g.luciaz.me/
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
 
-https://s.iit.xyz
+https://note.cm/
 
-https://search.vwo50.me/
+https://g.damfu.com/
+
+https://google.sb250.gq/
+
+https://googlehnzyc.azurewebsites.net/
 
 ## 谷歌学术
 
