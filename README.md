@@ -10,6 +10,7 @@
 ## 更新日志
 <details>
 <summary>点击查看</summary>
+2023.6.16 更新各类镜像站地址
 
 2023.5.20 更新各类镜像地址
   
@@ -59,6 +60,8 @@ https://g.damfu.com/
 https://google.sb250.gq/
 
 https://googlehnzyc.azurewebsites.net/
+
+https://gs.colnago.icu/
 
 ## 谷歌学术
 
