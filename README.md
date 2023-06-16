@@ -76,9 +76,11 @@ https://scholar.niostack.com/
 
 ## 维基百科
 
-https://zh-two.iwiki.icu/ （中文）
+https://zh-two.iwiki.icu/
 
-https://en-two.iwiki.icu/ （英文）
+https://duhoc.cn/baike/zh/ (有广告)
+
+https://www.how.com.vn/wiki/zh/ (有广告)
 
 ## Sci-Hub
 
