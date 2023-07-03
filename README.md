@@ -42,7 +42,7 @@
 **云端云 Onfly 新鸡场 价格实惠节点多**  
 **解锁部分流媒体**  
 **IPLC/IEPL 专线接入 尽享极致网速**  
-**[点击注册](https://www.onfly.clouf/#/register?code=ccP1TUsg)**
+**[点击注册](https://www.onfly.cloud/#/register?code=ccP1TUsg)**
 
 # 网站镜像
 
