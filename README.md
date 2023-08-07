@@ -141,7 +141,7 @@ OVO-专业养鸡场
 
 CN2和IEPL尽情体验 价格实惠网速快
 
-点击进入官网 → [https://ovoyun.top](https://ovoyun.top/#/register?code=28A42L72)
+点击进入官网 → [https://ovoup.site](https://ovoup.site/#/register?code=28A42L72)
 
 10月2日实测：
 
