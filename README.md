@@ -79,6 +79,8 @@ https://scholar.niostack.com/
 
 ## 维基百科
 
+https://www.wikimirror.org/ （复制到浏览器打开，需要回答问题）
+
 https://zh-two.iwiki.icu/
 
 https://duhoc.cn/baike/zh/ (有广告)
