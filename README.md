@@ -35,7 +35,7 @@
 **OVO-专业养鸡场 价格实惠节点多**  
 **CN2和IEPL优质线路尽情体验**  
 **全中转线路 看YouTube 4K无压力**  
-**[点击注册](https://ovoup.site/#/register?code=28A42L72)**
+**[点击注册](https://ovoup.site/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://zhu.websiteovo.top/#/register?code=28A42L72)）**
 
 *****
 
