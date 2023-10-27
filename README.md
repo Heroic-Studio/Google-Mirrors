@@ -42,7 +42,7 @@
 **云端云 Onfly 新鸡场 价格实惠节点多**  
 **解锁部分流媒体**  
 **IPLC/IEPL 专线接入 尽享极致网速**  
-**[点击注册](https://www.onfly.cloud/#/register?code=ccP1TUsg)**
+**[点击注册](https://onfly.top/#/register?code=ccP1TUsg)**
 
 # 网站镜像
 
@@ -53,15 +53,17 @@ https://g.luciaz.me/
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
 
-https://note.cm/
-
-https://g.damfu.com/
-
-https://google.sb250.gq/
+https://g.savalone.com/
 
 https://googlehnzyc.azurewebsites.net/
 
 https://gs.colnago.icu/
+
+https://search.ecnu.cf/
+
+https://search.ahau.cf/
+
+
 
 ## 谷歌学术
 
