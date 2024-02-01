@@ -35,14 +35,14 @@
 **OVO-专业养鸡场 价格实惠节点多**  
 **CN2和IEPL优质线路尽情体验**  
 **全中转线路 看YouTube 4K无压力**  
-**[点击注册](https://ovoup.site/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://zhu.websiteovo.top/#/register?code=28A42L72)）**
+**[点击注册](https://zhu.websiteovo.top/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://ya0.ovodesign.space/#/register?code=28A42L72)）**
 
 *****
 
 **云端云 Onfly 新鸡场 价格实惠节点多**  
 **解锁部分流媒体**  
 **IPLC/IEPL 专线接入 尽享极致网速**  
-**[点击注册](https://onfly.top/#/register?code=ccP1TUsg)**
+**[点击注册](https://www.onfly.link/#/register?code=ccP1TUsg)**
 
 # 网站镜像
 
@@ -52,26 +52,17 @@ https://g.luciaz.me/
 ```
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
-
-https://g.savalone.com/
-
-https://googlehnzyc.azurewebsites.net/
-
-https://gs.colnago.icu/
-
-https://search.ecnu.cf/
+https://xn--flw351e.mc-serve.cf/
 
 https://search.ahau.cf/
 
 https://rp1.ssh.town/index.php?q=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8_Z3dzX3JkPXNzbA
 
+https://www.sowai.cn/
+
 ## 谷歌学术
 
 https://scholar.lanfanshu.cn/
-
-https://sc.panda321.com/
-
-http://so.hiqq.com.cn/
 
 https://gg.xueshu5.com/
 
@@ -79,15 +70,16 @@ https://gfsoso.99lb.net/
 
 https://scholar.niostack.com/
 
+https://so1.cljtscd.com/
+
+https://xs.cljtscd.com/
+
+https://so3.cljtscd.com/
+
 ## 维基百科
+暂无
 
-https://www.wikimirror.org/ （复制到浏览器打开，需要回答问题）
-
-https://zh-two.iwiki.icu/
-
-https://duhoc.cn/baike/zh/ (有广告)
-
-https://www.how.com.vn/wiki/zh/ (有广告)
+建议使用 [Kiwix](https://www.jianshu.com/p/cfdd051cddc0) （离线维基百科）。
 
 ## Sci-Hub
 
@@ -131,32 +123,11 @@ https://cdn.bootcdn.net/ajax/libs
 
 https://lib.baomitu.com
 
-https://mirrors.cqupt.edu.cn/cdnjs/ajax/libs （重庆邮电）
+https://mirrors.sustech.edu.cn/cdnjs/ajax/libs （南科大）
 
-https://cdn.staticfile.org
+https://www.zstatic.net/services/
 
-https://mirrors.sustech.edu.cn/cdnjs/ajax/libs （南大）
-
-https://cdnjs.sourcegcdn.com/ajax/libs （全量同步 https://cdnjs.cloudflare.com）
-
-# 机场推荐
-
-OVO-专业养鸡场
-
-CN2和IEPL尽情体验 价格实惠网速快
-
-点击进入官网 → [https://ovoup.site](https://ovoup.site/#/register?code=28A42L72)
-
-10月2日实测：
-
-**香港节点**
-
-![hk](https://user-images.githubusercontent.com/42692274/135743685-e29554d7-b344-4067-b863-788c90441d05.png)
-
-**台湾节点**
-
-![tw](https://user-images.githubusercontent.com/42692274/135743692-1c23579c-77a6-4f26-884d-818dd25da996.png)
-
+https://cdn.onmicrosoft.cn/
 
 ## 注意
 
