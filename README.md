@@ -13,7 +13,7 @@
 2023.6.16 更新各类镜像站地址
 
 2023.5.20 更新各类镜像地址
-  
+
 2023.2.23 更新Wikipedia镜像站，移除Google失效镜像
 
 2023.2.18 移除失效地址，新增Google镜像
@@ -32,16 +32,16 @@
 *****
 
 # AD
-**OVO-专业养鸡场 价格实惠节点多**  
-**CN2和IEPL优质线路尽情体验**  
-**全中转线路 看YouTube 4K无压力**  
+**OVO-专业养鸡场 价格实惠节点多**
+**CN2和IEPL优质线路尽情体验**
+**全中转线路 看YouTube 4K无压力**
 **[点击注册](https://zhu.websiteovo.top/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://ya0.ovodesign.space/#/register?code=28A42L72)）**
 
 *****
 
-**云端云 Onfly 新鸡场 价格实惠节点多**  
-**解锁部分流媒体**  
-**IPLC/IEPL 专线接入 尽享极致网速**  
+**云端云 Onfly 新鸡场 价格实惠节点多**
+**解锁部分流媒体**
+**IPLC/IEPL 专线接入 尽享极致网速**
 **[点击注册](https://www.onfly.link/#/register?code=ccP1TUsg)**
 
 # 网站镜像
@@ -113,7 +113,7 @@ https://gitclone.com/ （仅支持`git`）
 
 ## Jsdelivr
 
-https://jsd.onmicrosoft.cn/ 
+https://jsd.onmicrosoft.cn/
 
 https://cdn1.tianli0.top/  （由Tianli提供  <a href="https://tianli-blog.club/%e5%85%8d%e8%b4%b9jsd%e9%95%9c%e5%83%8f%e4%bd%bf%e7%94%a8%e6%89%8b%e5%86%8c/">使用须知</a>）
 
