@@ -118,8 +118,8 @@ https://gitcode.com/        (浏览器访问, 某些项目镜像)
 https://moeyy.cn/gh-proxy/  (支持 `git` 命令行及文件下载)
 
 知名项目镜像
-[Github/Repos/*](https://gitcode.com/org/github/repos),
-[Google/Repos/*](https://gitcode.com/org/google/repos),
+[Github/Repos](https://gitcode.com/org/github/repos),
+[Google/Repos](https://gitcode.com/org/google/repos),
 [Github Release 清华](https://mirrors.tuna.tsinghua.edu.cn/github-release),
 [Gitee GitHub 镜像](https://gitee.com/organizations/mirrors/projects)
 
