@@ -35,14 +35,14 @@
 **OVO-专业养鸡场 价格实惠节点多**
 **CN2和IEPL优质线路尽情体验**
 **全中转线路 看YouTube 4K无压力**
-**[点击注册](https://zhu.websiteovo.top/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://ya0.ovodesign.space/#/register?code=28A42L72)）**
+**[点击注册](https://cdn.ovodesign.biz/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://cdn.ovodesign.shop/#/register?code=28A42L72)）**
 
 *****
 
 **云端云 Onfly 新鸡场 价格实惠节点多**
 **解锁部分流媒体**
 **IPLC/IEPL 专线接入 尽享极致网速**
-**[点击注册](https://www.onfly.link/#/register?code=ccP1TUsg)**
+**[点击注册](https://www.onfly.lol/#/register?code=ccP1TUsg)**
 
 # 网站镜像
 
@@ -59,6 +59,8 @@ https://search.ahau.cf/
 https://rp1.ssh.town/index.php?q=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8_Z3dzX3JkPXNzbA
 
 https://www.sowai.cn/
+
+https://google.speedcloud.icu/
 
 ## 谷歌学术
 
