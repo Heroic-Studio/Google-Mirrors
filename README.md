@@ -35,7 +35,7 @@
 **OVO-专业养鸡场 价格实惠节点多**
 **CN2和IEPL优质线路尽情体验**
 **全中转线路 看YouTube 4K无压力**
-**[点击注册](https://kk.eda326.xyz/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://cdn.ovodesign.shop/#/register?code=28A42L72)）**
+**[点击注册](https://nd.hamstring.cfd/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://kk.eda326.xyz/#/register?code=28A42L72)）**
 
 *****
 
@@ -52,15 +52,14 @@ https://g.luciaz.me/
 ```
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
-https://xn--flw351e.mc-serve.cf/
-
-https://search.ahau.cf/
-
-https://rp1.ssh.town/index.php?q=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8_Z3dzX3JkPXNzbA
 
 https://www.sowai.cn/
 
 https://google.speedcloud.icu/
+
+https://google.tigermed.net/
+
+https://googlehnzyc.azurewebsites.net/
 
 ## 谷歌学术
 
