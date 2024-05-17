@@ -35,14 +35,14 @@
 **OVO-专业养鸡场 价格实惠节点多**
 **CN2和IEPL优质线路尽情体验**
 **全中转线路 看YouTube 4K无压力**
-**[点击注册](https://nd.hamstring.cfd/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://kk.eda326.xyz/#/register?code=28A42L72)）**
+**[点击注册](https://nd.hamstring.cfd/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://vni.o.websiteovo.top/#/register?code=28A42L72)）**
 
 *****
 
 **云端云 Onfly 新鸡场 价格实惠节点多**
 **解锁部分流媒体**
 **IPLC/IEPL 专线接入 尽享极致网速**
-**[点击注册](https://www.onfly.pics/#/register?code=ccP1TUsg)（如无法打开请访问 [备用域名](https://www.onfly.homes/#/register?code=ccP1TUsg)）**
+**[点击注册](https://www.022024.xyz/#/register?code=ccP1TUsg)（如无法打开请访问 [备用域名](https://www.onfly.homes/#/register?code=ccP1TUsg)）**
 
 # 网站镜像
 
@@ -61,15 +61,15 @@ https://google.tigermed.net/
 
 https://googlehnzyc.azurewebsites.net/
 
+https://gsearch.g.shellten.top/
+
+https://rs.http3.lol/index.php?q=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8 （有广告）
+
 ## 谷歌学术
 
 https://scholar.lanfanshu.cn/
 
-https://gg.xueshu5.com/
-
 https://gfsoso.99lb.net/
-
-https://scholar.niostack.com/
 
 https://so1.cljtscd.com/
 
@@ -77,7 +77,17 @@ https://xs.cljtscd.com/
 
 https://so3.cljtscd.com/
 
-https://gsearch.g.shellten.top/
+https://so2.cljtscd.com/
+
+https://xs.fropet.com/
+
+http://zc12.add.pub/
+
+http://zc14.add.pub/
+
+https://so1.imageoss.com/
+
+https://so1.linfen3.top/
 
 ## 维基百科
 暂无
@@ -167,7 +177,7 @@ https://cdn.onmicrosoft.cn/
 3. 由于本项目的公益性，无法保证 SLA。如对稳定性有要求，建议自建镜像站。
 
 ## 历史 Star 数
-[![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
+[![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/Heroic-Studio/Google-Mirrors)
 
 
 
