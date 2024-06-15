@@ -148,6 +148,8 @@ https://ghproxy.homeboyc.cn/ （文件下载加速）
 
 https://kkgithub.com/ （GitHub 镜像，支持文件下载加速及 `git` 命令行 ）
 
+https://g.nite07.org/ （GitHub 镜像，支持文件下载加速及 `git` 命令行 ）
+
 知名项目镜像：
 [Github/Repos](https://gitcode.com/org/github/repos),
 [Google/Repos](https://gitcode.com/org/google/repos),
