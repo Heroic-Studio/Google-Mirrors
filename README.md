@@ -35,14 +35,14 @@
 **OVO-专业养鸡场 价格实惠节点多**
 **CN2和IEPL优质线路尽情体验**
 **全中转线路 看YouTube 4K无压力**
-**[点击注册](https://nd.hamstring.cfd/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://vni.o.websiteovo.top/#/register?code=28A42L72)）**
+**[点击注册](https://lio.vow.designgg.site/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://xin.yu.ovodesign.shop/#/register?code=28A42L72)）**
 
 *****
 
 **云端云 Onfly 新鸡场 价格实惠节点多**
 **解锁部分流媒体**
 **IPLC/IEPL 专线接入 尽享极致网速**
-**[点击注册](https://www.022024.xyz/#/register?code=ccP1TUsg)（如无法打开请访问 [备用域名](https://www.onfly.homes/#/register?code=ccP1TUsg)）**
+**[点击注册](https://ionfly.xyz/#/register?code=ccP1TUsg)（如无法打开请访问 [备用域名](https://ionfly.lat/#/register?code=ccP1TUsg)）**
 
 # 网站镜像
 
@@ -53,15 +53,11 @@ https://g.luciaz.me/
 验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
 
-https://www.sowai.cn/
-
 https://google.speedcloud.icu/
 
-https://google.tigermed.net/
-
-https://googlehnzyc.azurewebsites.net/
-
 https://gsearch.g.shellten.top/
+
+https://g.savalone.com/
 
 https://rs.http3.lol/index.php?q=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8 （有广告）
 
@@ -85,13 +81,17 @@ http://zc12.add.pub/
 
 http://zc14.add.pub/
 
-https://so1.imageoss.com/
-
 https://so1.linfen3.top/
 
 https://google.0068023.xyz/
 
 https://pig.cn.eu.org/ （ [查看详情](https://github.com/xiaozhu2007/-) ）
+
+https://xs.typicalgame.com/
+
+https://www.dotaindex.com/scholar
+
+https://xueshu.aigrogu.com/
 
 ## 维基百科
 暂无
