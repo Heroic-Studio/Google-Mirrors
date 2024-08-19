@@ -150,6 +150,8 @@ https://kkgithub.com/ （GitHub 镜像，支持文件下载加速及 `git` 命�
 
 https://g.nite07.org/ （GitHub 镜像，支持文件下载加速及 `git` 命令行 ）
 
+https://www.webcache.cn/ （raw文件加速）
+
 知名项目镜像：
 [Github/Repos](https://gitcode.com/org/github/repos),
 [Google/Repos](https://gitcode.com/org/google/repos),
@@ -173,6 +175,8 @@ https://mirrors.sustech.edu.cn/cdnjs/ajax/libs （南科大）
 https://www.zstatic.net/services/
 
 https://cdn.onmicrosoft.cn/
+
+https://www.webcache.cn/
 
 ## 注意
 
