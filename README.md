@@ -10,6 +10,8 @@
 ## 更新日志
 <details>
 <summary>点击查看</summary>
+2024.08.23 删除了投毒CDN,增加了部分NPM、CDNJS镜像，删除了无效镜像。
+
 2023.6.16 更新各类镜像站地址
 
 2023.5.20 更新各类镜像地址
@@ -122,6 +124,8 @@ https://sci-hub.ren
 
 ## GitHub
 
+https://7ed.net/  (全方位支持)
+
 https://gitclone.com/       (仅支持 `git` 命令行)
 
 https://githubfast.com/     (仅支持 `git` 命令行)
@@ -160,13 +164,35 @@ https://www.webcache.cn/ （raw文件加速）
 
 ## Jsdelivr
 
-https://jsd.onmicrosoft.cn/
+https://cdn.jsdmirror.com
 
-https://cdn1.tianli0.top/  （由Tianli提供  <a href="https://tianli-blog.club/%e5%85%8d%e8%b4%b9jsd%e9%95%9c%e5%83%8f%e4%bd%bf%e7%94%a8%e6%89%8b%e5%86%8c/">使用须知</a>）
+https://jsdelivr.b-cdn.net/
+
+https://cdn.iocdn.cc
+
+## NPM
+
+https://npmmirror.com/ 
+```
+白名单控制，申请白名单:https://github.com/cnpm/unpkg-white-list
+```
+
+https://npm.akass.cn  (个人)
+
+https://cdn.boochi.cn/npm 
+```
+白名单控制，申请白名单: my@luox.in
+```
 
 ## CDNJS
 
-https://cdn.bootcdn.net/ajax/libs
+http://cdn.bytedance.com/ (较旧)
+
+https://cdnjs.loli.net/ajax/libs/
+
+https://sf.akass.cn/ (个人)
+
+https://cdnjs.snrat.com/ajax/libs  (玉兔)
 
 https://lib.baomitu.com
 
