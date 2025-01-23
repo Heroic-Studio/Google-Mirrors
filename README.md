@@ -37,7 +37,7 @@
 **OVO-专业养鸡场 价格实惠节点多**
 **CN2和IEPL优质线路尽情体验**
 **全中转线路 看YouTube 4K无压力**
-**[点击注册](https://lio.vow.ovodisk.cc/#/register?code=28A42L72)（如无法打开请访问 [备用域名](https://yun.ovo.yangjichang.top/#/register?code=28A42L72)）**
+**[点击注册](https://lio.vow.ovodisk.cc/user/register?code=28A42L72)（如无法打开请访问 [备用域名](https://lio.vow.ovodisk.cc/user/register?code=28A42L72)）**
 
 *****
 
@@ -50,18 +50,9 @@
 
 ## 谷歌搜索
 
-https://g.luciaz.me/
-```
-验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
-```
+https://google.897653.xyz/aaabbbccc/https/www.google.com/
 
-https://google.speedcloud.icu/
-
-https://gsearch.g.shellten.top/
-
-https://g.savalone.com/
-
-https://rs.http3.lol/index.php?q=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8 （有广告）
+https://google.150123.xyz/aaabbbccc/https/www.google.com/
 
 ## 谷歌学术
 
@@ -96,7 +87,10 @@ https://www.dotaindex.com/scholar
 https://xueshu.aigrogu.com/
 
 ## 维基百科
-暂无
+
+https://google.150123.xyz/aaabbbccc/https/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+
+https://google.150123.xyz/aaabbbccc/https/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
 建议使用 [Kiwix](https://www.jianshu.com/p/cfdd051cddc0) （离线维基百科）。
 
