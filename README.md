@@ -10,6 +10,8 @@
 ## 更新日志
 <details>
 <summary>点击查看</summary>
+2025.1.23 删除无效镜像，添加新的谷歌、维基百科镜像
+  
 2024.08.23 删除了投毒CDN,增加了部分NPM、CDNJS镜像，删除了无效镜像。
 
 2023.6.16 更新各类镜像站地址
@@ -91,6 +93,8 @@ https://xueshu.aigrogu.com/
 https://google.150123.xyz/aaabbbccc/https/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
 https://google.150123.xyz/aaabbbccc/https/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+
+https://zhwk.kkwiki.win/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
 建议使用 [Kiwix](https://www.jianshu.com/p/cfdd051cddc0) （离线维基百科）。
 
