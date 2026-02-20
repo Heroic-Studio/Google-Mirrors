@@ -13,9 +13,12 @@ title: 你用得上的镜像网站
 ## 更新日志
 <details>
 <summary>点击查看</summary>
+
+2026.2.20 站点全面焕新，部分无效镜像删除，新增部分谷歌镜像和Docker镜像。
+
 2025.1.23 删除无效镜像，添加新的谷歌、维基百科镜像
   
-2024.08.23 删除了投毒CDN,增加了部分NPM、CDNJS镜像，删除了无效镜像。
+2024.08.23 删除了投毒CDN,增加了分NPM、CDNJS镜像，删除了无效镜像。
 
 2023.6.16 更新各类镜像站地址
 
@@ -31,9 +34,9 @@ title: 你用得上的镜像网站
 
 2022.11.11 全面更新镜像地址
 
-2022.7.30 由墨尘更新Jsdelivr,CDNJS镜像
+2022.7.30 更新Jsdelivr,CDNJS镜像
 
-2022.8.20 由墨尘更新免费V2ray,Google镜像站地址
+2022.8.20 更新免费V2ray,Google镜像站地址
 </details>
 
 *****
@@ -44,20 +47,22 @@ title: 你用得上的镜像网站
 **全中转线路 看YouTube 4K无压力**
 **[点击注册](https://lio.vow.ovodisk.cc/user/register?code=28A42L72)（如无法打开请访问 [备用域名](https://lio.vow.ovodisk.cc/user/register?code=28A42L72)）**
 
-*****
-
-**云端云 Onfly 新鸡场 价格实惠节点多**
-**解锁部分流媒体**
-**IPLC/IEPL 专线接入 尽享极致网速**
-**[点击注册](https://ionfly.lat/#/register?code=0wRHHLYl)）**
-
 # 网站镜像
 
 ## 谷歌搜索
 
-https://google.897653.xyz/aaabbbccc/https/www.google.com/
+https://s.linkedbus.com/
 
-https://google.150123.xyz/aaabbbccc/https/www.google.com/
+https://searx.mastodontech.de/
+
+https://search.modalogi.com/
+
+https://search.biboumail.fr/
+
+https://searx.envs.net/
+
+https://spot.ecloud.global/
+
 
 ## 谷歌学术
 
@@ -81,10 +86,6 @@ http://zc14.add.pub/
 
 https://so1.linfen3.top/
 
-https://google.0068023.xyz/
-
-https://pig.cn.eu.org/ （ [查看详情](https://github.com/xiaozhu2007/-) ）
-
 https://xs.typicalgame.com/
 
 https://www.dotaindex.com/scholar
@@ -93,11 +94,7 @@ https://xueshu.aigrogu.com/
 
 ## 维基百科
 
-https://google.150123.xyz/aaabbbccc/https/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-
-https://google.150123.xyz/aaabbbccc/https/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-
-https://zhwk.kkwiki.win/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+https://zhwk.kkwiki.win/
 
 建议使用 [Kiwix](https://www.jianshu.com/p/cfdd051cddc0) （离线维基百科）。
 
@@ -163,6 +160,16 @@ https://www.webcache.cn/ （raw文件加速）
 [Github Release 清华](https://mirrors.tuna.tsinghua.edu.cn/github-release),
 [Gitee GitHub 镜像](https://gitee.com/organizations/mirrors/projects)
 
+## Docker
+
+https://1ms.run/
+
+https://m.ixdev.cn/
+
+https://docker.aityp.com/
+
+https://tool.qiip.cc/tool/docker/
+
 ## Jsdelivr
 
 https://cdn.jsdmirror.com
@@ -175,15 +182,9 @@ https://cdn.iocdn.cc
 
 https://npmmirror.com/ 
 ```
-白名单控制，申请白名单:https://github.com/cnpm/unpkg-white-list
+```白名单控制，申请白名单:https://github.com/cnpm/unpkg-white-list`````
 ```
-
 https://npm.akass.cn  (个人)
-
-https://cdn.boochi.cn/npm 
-```
-白名单控制，申请白名单: my@luox.in
-```
 
 ## CDNJS
 
@@ -213,9 +214,15 @@ https://www.webcache.cn/
 
 3. 由于本项目的公益性，无法保证 SLA。如对稳定性有要求，建议自建镜像站。
 
+## 贡献
+如果你发现或自建了某个站点的镜像，你可以Fork本站的[Hexo程序目录][2]，修改source/_posts中的README.md并提起[PR][3]即可。
+
 ## 历史 Star 数
 [![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/Heroic-Studio/Google-Mirrors)
 
 
 
-  [1]: https://github.com/Heroic-Studio/Google-Mirrors/issues/new
+  [1]: https://github.com/Heroic-Studio/Mirror-Lists/issues/new
+  [2]: https://github.com/Heroic-Studio/Mirror -Lists
+  [3]: https://github.com/Heroic-Studio/Mirror-List/pulls
+  
