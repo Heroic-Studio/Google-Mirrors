@@ -1,7 +1,10 @@
-# 你用得上的镜像网站
-由于时间有限，可能无法及时更新，敬请谅解！
+---
+title: 你用得上的镜像网站
+---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeroic-Studio%2FGoogle-Mirrors&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHeroic-Studio%2FGoogle-Mirrors&label=Hits&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
+由于时间有限，可能无法及时更新，敬请谅解！
 
 ## ⚠服务条款
 *本仓库收集的镜像站仅供学习研究使用，严禁滥用或用于非法用途，如有违反，造成任何后果与本人无关。*
