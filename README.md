@@ -181,8 +181,7 @@ https://cdn.iocdn.cc
 ## NPM
 
 https://npmmirror.com/ 
-```
-```白名单控制，申请白名单:https://github.com/cnpm/unpkg-white-list`````
+```白名单控制，申请白名单:https://github.com/cnpm/unpkg-white-list
 ```
 https://npm.akass.cn  (个人)
 
@@ -215,7 +214,7 @@ https://www.webcache.cn/
 3. 由于本项目的公益性，无法保证 SLA。如对稳定性有要求，建议自建镜像站。
 
 ## 贡献
-如果你发现或自建了某个站点的镜像，你可以Fork本站的[Hexo程序目录][2]，修改source/_posts中的README.md并提起[PR][3]即可。
+如果你发现或自建了某个站点的镜像，你可以Fork本站的 [Hexo程序目录][2] ，修改source/_posts中的README.md并提起 [PR][3] 即可。
 
 ## 历史 Star 数
 [![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/Heroic-Studio/Google-Mirrors)
@@ -223,6 +222,6 @@ https://www.webcache.cn/
 
 
   [1]: https://github.com/Heroic-Studio/Mirror-Lists/issues/new
-  [2]: https://github.com/Heroic-Studio/Mirror -Lists
+  [2]: https://github.com/Heroic-Studio/Mirror-Lists
   [3]: https://github.com/Heroic-Studio/Mirror-List/pulls
   
